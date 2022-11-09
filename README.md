@@ -18,3 +18,6 @@
 - JavaScript (Module 사용)
 - KMDb OpenAPI 사용 (https://www.kmdb.or.kr/info/api/apiDetail/6)
 
+## AngularJS Git Commit Message Conventions
+
+- [참고자료](https://gist.github.com/stephenparish/9941e89d80e2bc58a153)

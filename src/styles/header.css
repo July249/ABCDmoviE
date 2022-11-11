@@ -1,0 +1,43 @@
+#header {
+  display: flex;
+  margin: 0 20px;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #711bff;
+  color: #fff;
+}
+
+.tit .tit-logo {
+  width: 200px;
+}
+
+.tit-nav {
+  flex-shrink: 1;
+  margin: 0 auto;
+}
+
+.tit-nav-list {
+  display: flex;
+  flex-direction: row;
+}
+
+.tit-nav-list li {
+  padding: 0 5px;
+}
+
+.tit-nav-list a {
+  font-size: 24px;
+}
+
+.tit-btn-wrap {
+  width: 200px;
+}
+
+.login-btn {
+  float: right;
+  background: none;
+  border: none;
+  font-size: 24px;
+  color: inherit;
+}

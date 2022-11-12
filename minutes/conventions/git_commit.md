@@ -5,13 +5,17 @@
 
   cf. [커밋 메시지를 여러 줄 입력하는 방법](https://ucong-9796.tistory.com/321)
 
-  ```
-  <type>(<scope>): <short summary>
-  <BLANK LINE>
-  <body>
-  <BLANK LINE>
-  <footer>
-  ```
+```
+$ git commit -m "<type>(<scope>): <short summary>
+<줄바꿈>
+<body>
+<줄바꿈>
+Breaks: <주요 변경 내역 요약>
+<줄바꿈>
+<줄바꿈>
+<이슈 상태> #<이슈번호>
+"
+```
 
 - 위 커밋 메시지 형식에 들어가는 내용은 다음과 같습니다.
 
@@ -92,31 +96,69 @@
       Fixes #<이슈번호>
       ```
 
-      ```
-      BREAKING CHANGE: isolate scope bindings definition has changed and
-        the inject option for the directive controller injection was removed.
+* 참고 예시
 
-        To migrate the code follow the example below:
+  - 1번 예시
 
-        Before:
+    ```
+    $ git commit -m "feat: plusTime 함수 추가
 
-        scope: {
-          myAttr: 'attribute',
-          myBind: 'bind',
-          myExpression: 'expression',
-          myEval: 'evaluate',
-          myAccessor: 'accessor'
-        }
+    추가시간 버튼을 클릭 시 해당 버튼에 기록된 시간만큼 타이머에 시간을 추가하는 함수:
+    - 버튼에 이벤트 발생시 각 버튼의 텍스트 숫자값을 ms로 변환하여 addTime 변수에 저장
+    - addTime 변수를 argument로 받아 타이머의 잔여 시간에 추가
 
-        After:
+    Breaks: setTime 함수의 인자로 추가된 addTime을 제거함
 
-        scope: {
-          myAttr: '@',
-          myBind: '@',
-          myExpression: '&',
-          // myEval - usually not useful, but in cases where the expression is assignable, you can use '='
-          myAccessor: '=' // in directive's template change myAccessor() to myAccessor
-        }
 
-        The removed `inject` wasn't generaly useful for directives so there should be no code using it.
-      ```
+    Close #123
+    "
+    ```
+
+  - 2번 예시
+
+    ```
+    $ git commit -m "docs: 11월 07일 회의록
+
+    주요 회의 내용:
+    - git 컨벤션 설정
+    - 페이지 구현 방안
+    - 각 구현 페이지별 주 관리자 역할 분담
+    - 전반적인 웹페이지 workflow 구성
+    - PR 관련 규칙(생성 시기, PR용 branch 작명, PR 작성)
+    - 기본 웹페이지 스타일 구성
+
+    Breaks: README.md Skills 내용 수정 (Scss -> CSS)
+
+
+    Close #2
+    "
+    ```
+
+  - 3번 예시
+
+    ```
+    $ git commit -m "refactor: banana 전역 변수 제거
+
+    banana 변수를 전역 스코프가 아닌 moreBanana 함수 블록 스코프 지역 변수로 변경:
+    - banana 변수를 전역 변수로 할당하여 발생하는 신뢰성 이슈 제거
+    - banana 변수가 전역 객체인 windows와 동일한 생명주기를 가져 발생하는 메모리 이슈 제거
+
+    Breaks: $moreBanana 함수 수정
+
+      Before:
+
+      let banana = hitButtonTimes;
+
+      function moreBanana() {
+        return banana;
+      }
+
+
+      After:
+
+      function moreBanana(hitButtonTimes) {
+        let banana = hitButtonTimes;
+        return banana;
+      }
+    "
+    ```

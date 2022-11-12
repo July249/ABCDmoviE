@@ -6,7 +6,7 @@
   cf. [커밋 메시지를 여러 줄 입력하는 방법](https://ucong-9796.tistory.com/321)
 
 ```
-$ git commit -m "<type>(<scope>): <short summary>
+$ git commit -m "<type>: <summary>
 <줄바꿈>
 <body>
 <줄바꿈>
@@ -88,9 +88,9 @@ Breaks: <주요 변경 내역 요약>
         ```
 
       ```
-      BREAKING CHANGE: <주요 변경 내역 요약>
+      Breaks: <주요 변경 내역 요약>
       <BLANK LINE>
-      <주요 변경 내역 정리하여 작성>
+      <선택사항: 주요 변경 내역 정리하여 작성>
       <BLANK LINE>
       <BLANK LINE>
       Fixes #<이슈번호>

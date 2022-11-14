@@ -1,8 +1,6 @@
 #header {
   display: flex;
-  margin: 0 20px;
-  flex-direction: row;
-  justify-content: space-between;
+  padding: 0 20px;
   align-items: center;
   background-color: #711bff;
   color: #fff;
@@ -19,7 +17,6 @@
 
 .tit-nav-list {
   display: flex;
-  flex-direction: row;
 }
 
 .tit-nav-list li {
@@ -32,6 +29,7 @@
 
 .tit-btn-wrap {
   width: 200px;
+  overflow: hidden;
 }
 
 .login-btn {

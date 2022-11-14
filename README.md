@@ -81,6 +81,6 @@
 - 해당 섹션은 알림판의 역할을 합니다.
 ```
 
-<a name="footnote_1">1</a>: [AngularJS git Commit Message Conventions 참조](https://gist.github.com/stephenparish/9941e89d80e2bc58a153)ㄴ
+<a name="footnote_1">1</a>: [AngularJS git Commit Message Conventions 참조](https://gist.github.com/stephenparish/9941e89d80e2bc58a153)
 
 <a name="footnote_2">2</a>: [AngularJS git Commit Message Conventions 번역글](https://velog.io/@outstandingboy/Git-%EC%BB%A4%EB%B0%8B-%EB%A9%94%EC%8B%9C%EC%A7%80-%EA%B7%9C%EC%95%BD-%EC%A0%95%EB%A6%AC-the-AngularJS-commit-conventions)

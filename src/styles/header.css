@@ -1,6 +1,6 @@
 #header {
   display: flex;
-  padding: 0 20px;
+  padding: 20px 50px;
   align-items: center;
   background-color: #711bff;
   color: #fff;
@@ -20,11 +20,11 @@
 }
 
 .tit-nav-list li {
-  padding: 0 5px;
+  padding: 0 20px;
 }
 
 .tit-nav-list a {
-  font-size: 24px;
+  font-size: 20px;
 }
 
 .tit-btn-wrap {
@@ -36,6 +36,6 @@
   float: right;
   background: none;
   border: none;
-  font-size: 24px;
+  font-size: 20px;
   color: inherit;
 }

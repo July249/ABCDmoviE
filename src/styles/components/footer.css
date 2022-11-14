@@ -1,0 +1,44 @@
+#footer{
+    background-color: #f4eeff;
+    padding: 0 50px;
+    box-sizing: border-box;
+}
+.floor-wrap{
+    position: relative;
+    display: flex;
+    justify-content: space-between;
+    padding:50px 0;  
+    box-sizing: border-box;
+}
+.floor-wrap:first-child{
+    border-bottom: 1px solid #C4C4C4;
+}
+.floor-wrap .tit-logo{
+    width:200px;
+}
+.icon-list{
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+.icon-list li a img{
+    width:20px;
+}
+.floor-info{
+    display: flex;
+    font-size: 14px;
+}
+.floor-info dt{
+    margin-right: 5px;
+    font-weight: 700;
+}
+.floor-info dd::after{
+    content:"|";
+    margin: 0 5px;
+}
+.floor-info dd:last-child::after{
+    content:"";
+}
+.copy-right{
+    font-size: 14px;
+}

@@ -11,7 +11,7 @@
 
 - "에브리 씽" 검색 결과 출력된 데이터
 
-- [사용된 url](https://api.koreafilm.or.kr/openapi-data2/wisenut/search_api/search_json2.jsp?collection=kmdb_new2&title=%EC%97%90%EB%B8%8C%EB%A6%AC%EC%94%BD&sort=prodYear,1&ServiceKey=13D40X7L3486E0FLUY0R)
+- [사용된 url](https://api.koreafilm.or.kr/openapi-data2/wisenut/search_api/search_json2.jsp?collection=kmdb_new2&title=%EC%97%90%EB%B8%8C%EB%A6%AC%EC%94%BD&sort=prodYear,1&ServiceKey=*********************)
 
   - title 요청인자를 이용하여 데이터를 검색함 ("에브리씽"으로 검색함)
   - sort 요청인자를 이용하여 prodYear(제작연도)를 내림차순으로 열거함
@@ -20,7 +20,7 @@
 
 - "에브리 씽 에브리웨어 올 앳 원스" 하나만 검색하여 출력된 데이터
 
-- [사용된 url](https://api.koreafilm.or.kr/openapi-data2/wisenut/search_api/search_json2.jsp?collection=kmdb_new2&movieSeq=56635&title=%EC%97%90%EB%B8%8C%EB%A6%AC%EC%94%BD&sort=prodYear,1&ServiceKey=13D40X7L3486E0FLUY0R)
+- [사용된 url](https://api.koreafilm.or.kr/openapi-data2/wisenut/search_api/search_json2.jsp?collection=kmdb_new2&movieSeq=56635&title=%EC%97%90%EB%B8%8C%EB%A6%AC%EC%94%BD&sort=prodYear,1&ServiceKey=*********************)
 
   - movieSeq 요청인자를 이용하여 데이터 정보를 특정하였음
 
@@ -28,12 +28,12 @@
 
 ### 1. 일별 박스오피스
 
-- [사용된 url](http://kobis.or.kr/kobisopenapi/webservice/rest/boxoffice/searchDailyBoxOfficeList.json?key=f5eef3421c602c6cb7ea224104795888&targetDt=20221113)
+- [사용된 url](http://kobis.or.kr/kobisopenapi/webservice/rest/boxoffice/searchDailyBoxOfficeList.json?key=*********************&targetDt=20221113)
 
   - targetDt 요청인자를 이용하여 2022년 11월 13일 기준 박스오피스 정보를 가져옴
 
 ### 2. weekly_boxoffice_data_kobis (주간/주말 박스오피스)
 
-- [사용된 url](https://kobis.or.kr/kobisopenapi/webservice/rest/boxoffice/searchWeeklyBoxOfficeList.json?key=f5eef3421c602c6cb7ea224104795888&targetDt=20221104&weekGb=0)
+- [사용된 url](https://kobis.or.kr/kobisopenapi/webservice/rest/boxoffice/searchWeeklyBoxOfficeList.json?key=*********************&targetDt=20221104&weekGb=0)
 
   - targetDt 요청인자를 이용하여 2022년 11월 04일이 속한 주간(월~일) 박스오피스 정보를 가져옴

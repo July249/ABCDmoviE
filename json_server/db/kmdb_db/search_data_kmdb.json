@@ -1,0 +1,2345 @@
+{
+  "Query": "",
+  "KMAQuery": "에브리 씽 에브리씽",
+  "TotalCount": 9,
+  "Data": [
+    {
+      "CollName": "kmdb_new2",
+      "TotalCount": 9,
+      "Count": 9,
+      "Result": [
+        {
+          "DOCID": "F56635",
+          "movieId": "F",
+          "movieSeq": "56635",
+          "title": "  !HS 에브리씽 !HE   !HS 에브리 !HE 웨어 올 앳 원스",
+          "titleEng": "Everything Everywhere All at Once",
+          "titleOrg": "Everything Everywhere All at Once",
+          "titleEtc": "에브리씽에브리웨어올앳원스^에브리씽 에브리웨어 올 앳 원스^Everything Everywhere All at Once^에브리씽 에브리웨어 올앳 원스, 에브리씽 에브리웨어 올앳원스, 에브리씽에브리웨어 올 앳 원스^Everything Everywhere All at Once",
+          "prodYear": "2022",
+          "directors": {
+            "director": [
+              {
+                "directorNm": "다니엘 콴",
+                "directorEnNm": "",
+                "directorId": ""
+              },
+              {
+                "directorNm": "다니엘 쉐이너트",
+                "directorEnNm": "",
+                "directorId": ""
+              }
+            ]
+          },
+          "actors": {
+            "actor": [
+              {
+                "actorNm": "양자경",
+                "actorEnNm": "Michelle Yeoh",
+                "actorId": "00048957"
+              },
+              {
+                "actorNm": "스테파니 수",
+                "actorEnNm": "",
+                "actorId": ""
+              },
+              {
+                "actorNm": "키 호이 콴",
+                "actorEnNm": "Jonathan Ke Quan",
+                "actorId": "00048973"
+              },
+              {
+                "actorNm": "제니 슬레이트",
+                "actorEnNm": "Jenny Slate",
+                "actorId": "00202707"
+              },
+              {
+                "actorNm": "해리 슘 주니어",
+                "actorEnNm": "Harry Shum Jr.",
+                "actorId": "00075977"
+              },
+              {
+                "actorNm": "제임스 홍",
+                "actorEnNm": "James Hong",
+                "actorId": "00086059"
+              },
+              {
+                "actorNm": "제이미 리 커티스",
+                "actorEnNm": "Jamie Lee Curtis",
+                "actorId": "00048597"
+              }
+            ]
+          },
+          "nation": "미국",
+          "company": "AGBO Production,Year of The Rat,A24",
+          "plots": {
+            "plot": [
+              {
+                "plotLang": "한국어",
+                "plotText": "미국에 이민와 힘겹게 세탁소를 운영하던 에블린은 세무당국의 조사에 시달리던 어느 날 남편의 이혼 요구와 삐딱하게 구는 딸로 인해 대혼란에 빠진다. 그 순간 에블린은 멀티버스 안에서 수천, 수만의 자신이 세상을 살아가고 있다는 사실을 알게 되고, 그 모든 능력을 빌려와 위기의 세상과 가족을 구해야하는 운명에 처한다."
+              }
+            ]
+          },
+          "runtime": "139",
+          "rating": "15세관람가",
+          "genre": "액션,어드벤처,판타지,SF,코메디",
+          "kmdbUrl": "https://www.kmdb.or.kr/db/kor/detail/movie/F/56635",
+          "type": "극영화",
+          "use": "극장용",
+          "episodes": "",
+          "ratedYn": "Y",
+          "repRatDate": "20220920",
+          "repRlsDate": "20221012",
+          "ratings": {
+            "rating": [
+              {
+                "ratingMain": "0||Y",
+                "ratingDate": "0||20220920",
+                "ratingNo": "0||2022-MF02367",
+                "ratingGrade": "15세관람가||15세관람가",
+                "releaseDate": "20221123||20221012",
+                "runtime": "149||139"
+              }
+            ]
+          },
+          "keywords": "",
+          "posters": "http://file.koreafilm.or.kr/thm/02/99/17/80/tn_DPF025828.jpg|http://file.koreafilm.or.kr/thm/02/99/17/87/tn_DPF026126.jpg|http://file.koreafilm.or.kr/thm/02/99/17/83/tn_DPF025939.jpg|http://file.koreafilm.or.kr/thm/02/99/17/83/tn_DPF025940.jpg|http://file.koreafilm.or.kr/thm/02/99/17/82/tn_DPF025889.jpg|http://file.koreafilm.or.kr/thm/02/99/17/78/tn_DPF025769.jpg|http://file.koreafilm.or.kr/thm/02/99/17/83/tn_DPF025943.jpg|http://file.koreafilm.or.kr/thm/02/99/17/84/tn_DPF025977.jpg|http://file.koreafilm.or.kr/thm/02/99/17/85/tn_DPF026010.jpg|http://file.koreafilm.or.kr/thm/02/99/17/85/tn_DPF026027.jpg|http://file.koreafilm.or.kr/thm/02/99/17/80/tn_DPF025834.jpg|http://file.koreafilm.or.kr/thm/02/99/17/81/tn_DPF025874.jpg|http://file.koreafilm.or.kr/thm/02/99/17/84/tn_DPF025968.jpg",
+          "stlls": "http://file.koreafilm.or.kr/thm/01/copy/00/63/01/tn_DST782534.jpg|http://file.koreafilm.or.kr/thm/01/copy/00/63/04/tn_DST782825.jpg|http://file.koreafilm.or.kr/thm/01/copy/00/63/08/tn_DST783175.jpg|http://file.koreafilm.or.kr/thm/01/copy/00/63/08/tn_DST783177.jpg|http://file.koreafilm.or.kr/thm/01/copy/00/63/08/tn_DST783178.jpg|http://file.koreafilm.or.kr/thm/01/copy/00/63/04/tn_DST782826.jpg|http://file.koreafilm.or.kr/thm/01/copy/00/63/07/tn_DST783171.jpg|http://file.koreafilm.or.kr/thm/01/copy/00/62/98/tn_DST782295.jpg|http://file.koreafilm.or.kr/thm/01/copy/00/62/78/tn_DST780342.jpg|http://file.koreafilm.or.kr/thm/01/copy/00/63/20/tn_DST784346.jpg",
+          "staffs": {
+            "staff": [
+              {
+                "staffNm": "다니엘 콴",
+                "staffEnNm": "",
+                "staffRoleGroup": "감독",
+                "staffRole": "",
+                "staffEtc": "",
+                "staffId": ""
+              },
+              {
+                "staffNm": "다니엘 쉐이너트",
+                "staffEnNm": "",
+                "staffRoleGroup": "감독",
+                "staffRole": "",
+                "staffEtc": "",
+                "staffId": ""
+              },
+              {
+                "staffNm": "다니엘 콴",
+                "staffEnNm": "",
+                "staffRoleGroup": "각본",
+                "staffRole": "",
+                "staffEtc": "",
+                "staffId": ""
+              },
+              {
+                "staffNm": "다니엘 쉐이너트",
+                "staffEnNm": "",
+                "staffRoleGroup": "각본",
+                "staffRole": "",
+                "staffEtc": "",
+                "staffId": ""
+              },
+              {
+                "staffNm": "양자경",
+                "staffEnNm": "Michelle Yeoh",
+                "staffRoleGroup": "출연",
+                "staffRole": "에블린 왕",
+                "staffEtc": "",
+                "staffId": "00048957"
+              },
+              {
+                "staffNm": "스테파니 수",
+                "staffEnNm": "",
+                "staffRoleGroup": "출연",
+                "staffRole": "조이 왕/조부 투파키",
+                "staffEtc": "",
+                "staffId": ""
+              },
+              {
+                "staffNm": "키 호이 콴",
+                "staffEnNm": "Jonathan Ke Quan",
+                "staffRoleGroup": "출연",
+                "staffRole": "웨이몬드 왕",
+                "staffEtc": "",
+                "staffId": "00048973"
+              },
+              {
+                "staffNm": "제니 슬레이트",
+                "staffEnNm": "Jenny Slate",
+                "staffRoleGroup": "출연",
+                "staffRole": "데비",
+                "staffEtc": "",
+                "staffId": "00202707"
+              },
+              {
+                "staffNm": "해리 슘 주니어",
+                "staffEnNm": "Harry Shum Jr.",
+                "staffRoleGroup": "출연",
+                "staffRole": "채드",
+                "staffEtc": "",
+                "staffId": "00075977"
+              },
+              {
+                "staffNm": "제임스 홍",
+                "staffEnNm": "James Hong",
+                "staffRoleGroup": "출연",
+                "staffRole": "공 공",
+                "staffEtc": "",
+                "staffId": "00086059"
+              },
+              {
+                "staffNm": "제이미 리 커티스",
+                "staffEnNm": "Jamie Lee Curtis",
+                "staffRoleGroup": "출연",
+                "staffRole": "디어드레 보베어드레",
+                "staffEtc": "",
+                "staffId": "00048597"
+              },
+              {
+                "staffNm": "조 루소",
+                "staffEnNm": "Joe Russo",
+                "staffRoleGroup": "제작자",
+                "staffRole": "",
+                "staffEtc": "",
+                "staffId": "00089467"
+              },
+              {
+                "staffNm": "안소니 루소",
+                "staffEnNm": "Anthony Russo",
+                "staffRoleGroup": "제작자",
+                "staffRole": "",
+                "staffEtc": "",
+                "staffId": "00055995"
+              },
+              {
+                "staffNm": "AGBO Production",
+                "staffEnNm": "",
+                "staffRoleGroup": "제작사",
+                "staffRole": "",
+                "staffEtc": "",
+                "staffId": ""
+              },
+              {
+                "staffNm": "Year of The Rat",
+                "staffEnNm": "",
+                "staffRoleGroup": "제작사",
+                "staffRole": "",
+                "staffEtc": "",
+                "staffId": ""
+              },
+              {
+                "staffNm": "A24",
+                "staffEnNm": "A24",
+                "staffRoleGroup": "제작사",
+                "staffRole": "",
+                "staffEtc": "",
+                "staffId": ""
+              },
+              {
+                "staffNm": "비케이 시네윈",
+                "staffEnNm": "",
+                "staffRoleGroup": "투자사",
+                "staffRole": "공동제공",
+                "staffEtc": "",
+                "staffId": ""
+              },
+              {
+                "staffNm": "(주)노바미디어",
+                "staffEnNm": "",
+                "staffRoleGroup": "투자사",
+                "staffRole": "공동제공",
+                "staffEtc": "",
+                "staffId": ""
+              },
+              {
+                "staffNm": "(주)하이스트레인저",
+                "staffEnNm": "",
+                "staffRoleGroup": "투자사",
+                "staffRole": "공동제공",
+                "staffEtc": "",
+                "staffId": ""
+              },
+              {
+                "staffNm": "티케엔터테인먼트",
+                "staffEnNm": "",
+                "staffRoleGroup": "투자사",
+                "staffRole": "공동제공",
+                "staffEtc": "",
+                "staffId": ""
+              },
+              {
+                "staffNm": "(주)아우라씨엔씨",
+                "staffEnNm": "",
+                "staffRoleGroup": "투자사",
+                "staffRole": "공동제공",
+                "staffEtc": "",
+                "staffId": ""
+              },
+              {
+                "staffNm": "워터홀 컴퍼니㈜",
+                "staffEnNm": "WATERHOLE COMPANY",
+                "staffRoleGroup": "배급사",
+                "staffRole": "",
+                "staffEtc": "",
+                "staffId": ""
+              },
+              {
+                "staffNm": "(주)더쿱디스트리뷰션",
+                "staffEnNm": "",
+                "staffRoleGroup": "수입사",
+                "staffRole": "",
+                "staffEtc": "",
+                "staffId": ""
+              }
+            ]
+          },
+          "vods": {
+            "vod": [
+              {
+                "vodClass": "기타(다니엘스 듀오 스포일러 메시지 영상)",
+                "vodUrl": "https://www.kmdb.or.kr/db/kor/detail/movie/F/56635/own/videoData"
+              },
+              {
+                "vodClass": "예고편(메인예고편)",
+                "vodUrl": "https://www.kmdb.or.kr/db/kor/detail/movie/F/56635/own/videoData"
+              },
+              {
+                "vodClass": "예고편(리뷰예고편)",
+                "vodUrl": "https://www.kmdb.or.kr/db/kor/detail/movie/F/56635/own/videoData"
+              },
+              {
+                "vodClass": "기타(허리 가방 액션 영상)",
+                "vodUrl": "https://www.kmdb.or.kr/db/kor/detail/movie/F/56635/own/videoData"
+              },
+              {
+                "vodClass": "메이킹(다니엘스 피쳐렛)",
+                "vodUrl": "https://www.kmdb.or.kr/db/kor/detail/movie/F/56635/own/videoData"
+              },
+              {
+                "vodClass": "예고편(론칭예고편)",
+                "vodUrl": "https://www.kmdb.or.kr/db/kor/detail/movie/F/56635/own/videoData"
+              },
+              {
+                "vodClass": "기타(사랑 고백 액션 영상)",
+                "vodUrl": "https://www.kmdb.or.kr/db/kor/detail/movie/F/56635/own/videoData"
+              },
+              {
+                "vodClass": "기타(양자경의 개봉 기념 메시지 영상)",
+                "vodUrl": "https://www.kmdb.or.kr/db/kor/detail/movie/F/56635/own/videoData"
+              },
+              {
+                "vodClass": "기타(키보드 액션 영상)",
+                "vodUrl": "https://www.kmdb.or.kr/db/kor/detail/movie/F/56635/own/videoData"
+              },
+              {
+                "vodClass": "기타(양자경 뜻밖의 영웅 영상)",
+                "vodUrl": "https://www.kmdb.or.kr/db/kor/detail/movie/F/56635/own/videoData"
+              }
+            ]
+          },
+          "openThtr": "",
+          "stat": [
+            {
+              "screenArea": "",
+              "screenCnt": "",
+              "salesAcc": "",
+              "audiAcc": "",
+              "statSouce": "",
+              "statDate": ""
+            }
+          ],
+          "screenArea": "",
+          "screenCnt": "",
+          "salesAcc": "",
+          "audiAcc": "",
+          "statSouce": "",
+          "statDate": "",
+          "themeSong": "",
+          "soundtrack": "",
+          "fLocation": "",
+          "Awards1": "",
+          "Awards2": "",
+          "regDate": "20220818",
+          "modDate": "20221111",
+          "Codes": {
+            "Code": [
+              {
+                "CodeNm": "",
+                "CodeNo": ""
+              }
+            ]
+          },
+          "CommCodes": {
+            "CommCode": [
+              {
+                "CodeNm": "",
+                "CodeNo": ""
+              }
+            ]
+          },
+          "ALIAS": "srcKmdb2"
+        },
+        {
+          "DOCID": "B10941",
+          "movieId": "B",
+          "movieSeq": "10941",
+          "title": "  !HS 에브리씽 !HE  윌 비 오케이",
+          "titleEng": "Everything Will Be Ok",
+          "titleOrg": "",
+          "titleEtc": "에브리씽윌비오케이^에브리씽 윌 비 오케이^에브리씽 윌 비오케이, 에브리씽 윌비 오케이, 에브리씽윌 비 오케이, 에브리띵 윌 비 오케이, 에브리띵윌비오케이^Everything Will Be Ok",
+          "prodYear": "2022",
+          "directors": {
+            "director": [
+              {
+                "directorNm": "리티 판",
+                "directorEnNm": "Rithy Panh",
+                "directorId": "00172695"
+              }
+            ]
+          },
+          "actors": {
+            "actor": [
+              {
+                "actorNm": "",
+                "actorEnNm": "",
+                "actorId": ""
+              }
+            ]
+          },
+          "nation": "캄보디아,프랑스,콜롬비아",
+          "company": "",
+          "plots": {
+            "plot": [
+              {
+                "plotLang": "영어",
+                "plotText": "Animals have enslaved humans and taken over the world. The statues of the past are gone and new ones are erected to suppress the will of the people."
+              }
+            ]
+          },
+          "runtime": "98",
+          "rating": "",
+          "genre": "판타지",
+          "kmdbUrl": "https://www.kmdb.or.kr/db/kor/detail/movie/B/10941",
+          "type": "다큐멘터리",
+          "use": "극장용",
+          "episodes": "",
+          "ratedYn": "",
+          "repRatDate": "",
+          "repRlsDate": "",
+          "ratings": {
+            "rating": [
+              {
+                "ratingMain": "Y",
+                "ratingDate": "",
+                "ratingNo": "",
+                "ratingGrade": "",
+                "releaseDate": "",
+                "runtime": "98"
+              }
+            ]
+          },
+          "keywords": "",
+          "posters": "",
+          "stlls": "http://file.koreafilm.or.kr/thm/01/copy/00/60/68/tn_DST760702.jpg|http://file.koreafilm.or.kr/thm/01/copy/00/60/68/tn_DST760703.jpg|http://file.koreafilm.or.kr/thm/01/copy/00/60/68/tn_DST760704.jpg|http://file.koreafilm.or.kr/thm/01/copy/00/60/68/tn_DST760705.jpg|http://file.koreafilm.or.kr/thm/01/copy/00/60/68/tn_DST760706.jpg|http://file.koreafilm.or.kr/thm/01/copy/00/60/68/tn_DST760707.jpg",
+          "staffs": {
+            "staff": [
+              {
+                "staffNm": "리티 판",
+                "staffEnNm": "Rithy Panh",
+                "staffRoleGroup": "감독",
+                "staffRole": "",
+                "staffEtc": "",
+                "staffId": "00172695"
+              },
+              {
+                "staffNm": "크리스토프 바테일",
+                "staffEnNm": "",
+                "staffRoleGroup": "각본",
+                "staffRole": "",
+                "staffEtc": "",
+                "staffId": ""
+              },
+              {
+                "staffNm": "리티 판",
+                "staffEnNm": "Rithy Panh",
+                "staffRoleGroup": "각본",
+                "staffRole": "",
+                "staffEtc": "",
+                "staffId": "00172695"
+              },
+              {
+                "staffNm": "아그네스 세네마우드",
+                "staffEnNm": "",
+                "staffRoleGroup": "각본",
+                "staffRole": "",
+                "staffEtc": "",
+                "staffId": ""
+              },
+              {
+                "staffNm": "캐서린 뒤사르",
+                "staffEnNm": "Catherine Dussart",
+                "staffRoleGroup": "제작자",
+                "staffRole": "",
+                "staffEtc": "",
+                "staffId": "00212125"
+              },
+              {
+                "staffNm": "마크 마더",
+                "staffEnNm": "Marc MARDER",
+                "staffRoleGroup": "음악",
+                "staffRole": "",
+                "staffEtc": "",
+                "staffId": "00172697"
+              },
+              {
+                "staffNm": "사리스 망",
+                "staffEnNm": "Sarith Mang",
+                "staffRoleGroup": "미술",
+                "staffRole": "",
+                "staffEtc": "",
+                "staffId": "00219728"
+              }
+            ]
+          },
+          "vods": {
+            "vod": [
+              {
+                "vodClass": "",
+                "vodUrl": ""
+              }
+            ]
+          },
+          "openThtr": "",
+          "stat": [
+            {
+              "screenArea": "",
+              "screenCnt": "",
+              "salesAcc": "",
+              "audiAcc": "",
+              "statSouce": "",
+              "statDate": ""
+            }
+          ],
+          "screenArea": "",
+          "screenCnt": "",
+          "salesAcc": "",
+          "audiAcc": "",
+          "statSouce": "",
+          "statDate": "",
+          "themeSong": "",
+          "soundtrack": "",
+          "fLocation": "",
+          "Awards1": "베를린국제영화제(2022) : 은곰상-예술공헌상 - 리티 판, 사리스 망",
+          "Awards2": "",
+          "regDate": "20220304",
+          "modDate": "20220304",
+          "Codes": {
+            "Code": [
+              {
+                "CodeNm": "",
+                "CodeNo": ""
+              }
+            ]
+          },
+          "CommCodes": {
+            "CommCode": [
+              {
+                "CodeNm": "",
+                "CodeNo": ""
+              }
+            ]
+          },
+          "ALIAS": "srcKmdb2"
+        },
+        {
+          "DOCID": "F54079",
+          "movieId": "F",
+          "movieSeq": "54079",
+          "title": " 애프터  !HS 에브리씽 !HE ",
+          "titleEng": "After Everything",
+          "titleOrg": "",
+          "titleEtc": "애프터에브리씽^애프터 에브리씽^After Everything",
+          "prodYear": "2018",
+          "directors": {
+            "director": [
+              {
+                "directorNm": "한나 막스",
+                "directorEnNm": "Hannah Marks",
+                "directorId": "00217774"
+              },
+              {
+                "directorNm": "조이 파워",
+                "directorEnNm": "",
+                "directorId": ""
+              }
+            ]
+          },
+          "actors": {
+            "actor": [
+              {
+                "actorNm": "제레미 앨런 화이트",
+                "actorEnNm": "",
+                "actorId": ""
+              },
+              {
+                "actorNm": "마이카 먼로",
+                "actorEnNm": "Maika Monroe",
+                "actorId": "00204822"
+              },
+              {
+                "actorNm": "데론 호튼",
+                "actorEnNm": "",
+                "actorId": ""
+              },
+              {
+                "actorNm": "사샤 레인",
+                "actorEnNm": "Sasha Lane",
+                "actorId": "00211938"
+              },
+              {
+                "actorNm": "딘 윈터스",
+                "actorEnNm": "Dean Winters",
+                "actorId": "00066473"
+              }
+            ]
+          },
+          "nation": "미국",
+          "company": "Yale Productions",
+          "plots": {
+            "plot": [
+              {
+                "plotLang": "한국어",
+                "plotText": "암 투병 과정에서의 연인의 갈등을 통해 사랑과 이별을 그린 로맨스 영화"
+              }
+            ]
+          },
+          "runtime": "92",
+          "rating": "18세관람가(청소년관람불가)",
+          "genre": "코메디,드라마",
+          "kmdbUrl": "https://www.kmdb.or.kr/db/kor/detail/movie/F/54079",
+          "type": "극영화",
+          "use": "극장용",
+          "episodes": "",
+          "ratedYn": "Y",
+          "repRatDate": "20210817",
+          "repRlsDate": "",
+          "ratings": {
+            "rating": [
+              {
+                "ratingMain": "Y",
+                "ratingDate": "20210817",
+                "ratingNo": "2021-MF02033",
+                "ratingGrade": "18세관람가(청소년관람불가)",
+                "releaseDate": "",
+                "runtime": "92"
+              }
+            ]
+          },
+          "keywords": "",
+          "posters": "",
+          "stlls": "",
+          "staffs": {
+            "staff": [
+              {
+                "staffNm": "한나 막스",
+                "staffEnNm": "Hannah Marks",
+                "staffRoleGroup": "감독",
+                "staffRole": "",
+                "staffEtc": "",
+                "staffId": "00217774"
+              },
+              {
+                "staffNm": "조이 파워",
+                "staffEnNm": "",
+                "staffRoleGroup": "감독",
+                "staffRole": "",
+                "staffEtc": "",
+                "staffId": ""
+              },
+              {
+                "staffNm": "한나 막스",
+                "staffEnNm": "Hannah Marks",
+                "staffRoleGroup": "각본",
+                "staffRole": "",
+                "staffEtc": "",
+                "staffId": "00217774"
+              },
+              {
+                "staffNm": "조이 파워",
+                "staffEnNm": "",
+                "staffRoleGroup": "각본",
+                "staffRole": "",
+                "staffEtc": "",
+                "staffId": ""
+              },
+              {
+                "staffNm": "제레미 앨런 화이트",
+                "staffEnNm": "",
+                "staffRoleGroup": "출연",
+                "staffRole": "엘리엇",
+                "staffEtc": "",
+                "staffId": ""
+              },
+              {
+                "staffNm": "마이카 먼로",
+                "staffEnNm": "Maika Monroe",
+                "staffRoleGroup": "출연",
+                "staffRole": "미아",
+                "staffEtc": "",
+                "staffId": "00204822"
+              },
+              {
+                "staffNm": "데론 호튼",
+                "staffEnNm": "",
+                "staffRoleGroup": "출연",
+                "staffRole": "니코",
+                "staffEtc": "",
+                "staffId": ""
+              },
+              {
+                "staffNm": "사샤 레인",
+                "staffEnNm": "Sasha Lane",
+                "staffRoleGroup": "출연",
+                "staffRole": "린지",
+                "staffEtc": "",
+                "staffId": "00211938"
+              },
+              {
+                "staffNm": "딘 윈터스",
+                "staffEnNm": "Dean Winters",
+                "staffRoleGroup": "출연",
+                "staffRole": "블레이크",
+                "staffEtc": "",
+                "staffId": "00066473"
+              },
+              {
+                "staffNm": "산드라 발데-한센",
+                "staffEnNm": "",
+                "staffRoleGroup": "촬영",
+                "staffRole": "",
+                "staffEtc": "",
+                "staffId": ""
+              },
+              {
+                "staffNm": "Yale Productions",
+                "staffEnNm": "",
+                "staffRoleGroup": "제작사",
+                "staffRole": "",
+                "staffEtc": "",
+                "staffId": ""
+              }
+            ]
+          },
+          "vods": {
+            "vod": [
+              {
+                "vodClass": "",
+                "vodUrl": ""
+              }
+            ]
+          },
+          "openThtr": "",
+          "stat": [
+            {
+              "screenArea": "",
+              "screenCnt": "",
+              "salesAcc": "",
+              "audiAcc": "",
+              "statSouce": "",
+              "statDate": ""
+            }
+          ],
+          "screenArea": "",
+          "screenCnt": "",
+          "salesAcc": "",
+          "audiAcc": "",
+          "statSouce": "",
+          "statDate": "",
+          "themeSong": "",
+          "soundtrack": "",
+          "fLocation": "",
+          "Awards1": "",
+          "Awards2": "",
+          "regDate": "20210818",
+          "modDate": "20210818",
+          "Codes": {
+            "Code": [
+              {
+                "CodeNm": "",
+                "CodeNo": ""
+              }
+            ]
+          },
+          "CommCodes": {
+            "CommCode": [
+              {
+                "CodeNm": "",
+                "CodeNo": ""
+              }
+            ]
+          },
+          "ALIAS": "srcKmdb2"
+        },
+        {
+          "DOCID": "F55248",
+          "movieId": "F",
+          "movieSeq": "55248",
+          "title": "  !HS 에브리씽 !HE ",
+          "titleEng": "Everything",
+          "titleOrg": "",
+          "titleEtc": "에브리씽^에브리띵^Everything",
+          "prodYear": "2017",
+          "directors": {
+            "director": [
+              {
+                "directorNm": "데이빗 오렐리",
+                "directorEnNm": "David O'Reilly",
+                "directorId": "00066055"
+              }
+            ]
+          },
+          "actors": {
+            "actor": [
+              {
+                "actorNm": "앨런 와츠",
+                "actorEnNm": "",
+                "actorId": ""
+              }
+            ]
+          },
+          "nation": "미국,아일랜드",
+          "company": "",
+          "plots": {
+            "plot": [
+              {
+                "plotLang": "영어",
+                "plotText": "It's a simulation of reality where you can see the world from everything's point of view - it's kind of a philosophy project in the form of a game. There is no narrative or story - just the world as it is."
+              }
+            ]
+          },
+          "runtime": "11",
+          "rating": "",
+          "genre": "드라마",
+          "kmdbUrl": "https://www.kmdb.or.kr/db/kor/detail/movie/F/55248",
+          "type": "애니메이션",
+          "use": "극장용",
+          "episodes": "",
+          "ratedYn": "",
+          "repRatDate": "",
+          "repRlsDate": "",
+          "ratings": {
+            "rating": [
+              {
+                "ratingMain": "Y",
+                "ratingDate": "",
+                "ratingNo": "",
+                "ratingGrade": "",
+                "releaseDate": "",
+                "runtime": "11"
+              }
+            ]
+          },
+          "keywords": "",
+          "posters": "",
+          "stlls": "http://file.koreafilm.or.kr/thm/01/copy/00/60/57/tn_DST759433.jpg",
+          "staffs": {
+            "staff": [
+              {
+                "staffNm": "데이빗 오렐리",
+                "staffEnNm": "David O'Reilly",
+                "staffRoleGroup": "감독",
+                "staffRole": "",
+                "staffEtc": "",
+                "staffId": "00066055"
+              },
+              {
+                "staffNm": "데이빗 오렐리",
+                "staffEnNm": "David O'Reilly",
+                "staffRoleGroup": "각본",
+                "staffRole": "",
+                "staffEtc": "",
+                "staffId": "00066055"
+              },
+              {
+                "staffNm": "앨런 와츠",
+                "staffEnNm": "",
+                "staffRoleGroup": "출연",
+                "staffRole": "",
+                "staffEtc": "",
+                "staffId": ""
+              },
+              {
+                "staffNm": "벤 루카스 보이센",
+                "staffEnNm": "",
+                "staffRoleGroup": "음악",
+                "staffRole": "",
+                "staffEtc": "",
+                "staffId": ""
+              },
+              {
+                "staffNm": "세바스티안 플라노",
+                "staffEnNm": "",
+                "staffRoleGroup": "음악",
+                "staffRole": "",
+                "staffEtc": "",
+                "staffId": ""
+              },
+              {
+                "staffNm": "에두아르도 오르티즈-프라우",
+                "staffEnNm": "",
+                "staffRoleGroup": "사운드(음향)",
+                "staffRole": "",
+                "staffEtc": "",
+                "staffId": ""
+              }
+            ]
+          },
+          "vods": {
+            "vod": [
+              {
+                "vodClass": "",
+                "vodUrl": ""
+              }
+            ]
+          },
+          "openThtr": "",
+          "stat": [
+            {
+              "screenArea": "",
+              "screenCnt": "",
+              "salesAcc": "",
+              "audiAcc": "",
+              "statSouce": "",
+              "statDate": ""
+            }
+          ],
+          "screenArea": "",
+          "screenCnt": "",
+          "salesAcc": "",
+          "audiAcc": "",
+          "statSouce": "",
+          "statDate": "",
+          "themeSong": "",
+          "soundtrack": "",
+          "fLocation": "",
+          "Awards1": "클레르몽페랑 국제단편영화제(2018) : 랩경쟁 심사위원특별상 - 데이빗 오렐리",
+          "Awards2": "",
+          "regDate": "20220125",
+          "modDate": "20220125",
+          "Codes": {
+            "Code": [
+              {
+                "CodeNm": "",
+                "CodeNo": ""
+              }
+            ]
+          },
+          "CommCodes": {
+            "CommCode": [
+              {
+                "CodeNm": "",
+                "CodeNo": ""
+              }
+            ]
+          },
+          "ALIAS": "srcKmdb2"
+        },
+        {
+          "DOCID": "F40030",
+          "movieId": "F",
+          "movieSeq": "40030",
+          "title": "  !HS 에브리씽 !HE ,  !HS 에브리씽 !HE ",
+          "titleEng": "Everything, Everything",
+          "titleOrg": "Everything, Everything",
+          "titleEtc": "에브리씽,에브리씽^에브리씽, 에브리씽^Everything, Everything^에브리씽에브리씽^Everything, Everything^Everything, Everything",
+          "prodYear": "2017",
+          "directors": {
+            "director": [
+              {
+                "directorNm": "스텔라 메기",
+                "directorEnNm": "Stella Meghie",
+                "directorId": "00202815"
+              }
+            ]
+          },
+          "actors": {
+            "actor": [
+              {
+                "actorNm": "아만들라 스텐버그",
+                "actorEnNm": "Amandla Stenberg",
+                "actorId": "00202816"
+              },
+              {
+                "actorNm": "닉 로빈슨",
+                "actorEnNm": "Nick Robinson",
+                "actorId": "00202817"
+              },
+              {
+                "actorNm": "애니카 노니 로즈",
+                "actorEnNm": "Anika Noni Rose",
+                "actorId": "00055340"
+              },
+              {
+                "actorNm": "안나 데 라 레구에라",
+                "actorEnNm": "Ana de la Reguera",
+                "actorId": "00054492"
+              }
+            ]
+          },
+          "nation": "미국",
+          "company": "Alloy Entertainment,Itaca Films,Metro-Goldwyn-Maye",
+          "plots": {
+            "plot": [
+              {
+                "plotLang": "한국어",
+                "plotText": "Based on the #1 New York Times Bestsellser.만약 당신이 세상의 그 어느 것도 만질 수도, 신선한 바깥 공기를 마실 수도, 따뜻한 햇살을 직접 느낄 수도, 옆집에 사는 소년과 키스할 수도 없다면 어떨까? 똑똑하고 호기심 많으며 상상력이 풍부한 18세 소녀 매디는 병으로 인해 집이 가져다주는 보호 밖을 떠날 수 없다. 어느 날 귀여운 옆집 소년 올리가 나타나고, 그는 매디에게 사랑을 위해 안전으로부터 벗어나 모든 것을 희생하고자 하는 갈망을 불러일으킨다. 그들의 따뜻하고 로맨틱한 사랑 이야기를 뉴욕타임스 베스트셀러 원작의 영화  에브리씽, 에브리씽 에서 만나보자."
+              }
+            ]
+          },
+          "runtime": "96",
+          "rating": "12세관람가",
+          "genre": "드라마,멜로드라마",
+          "kmdbUrl": "https://www.kmdb.or.kr/db/kor/detail/movie/F/40030",
+          "type": "극영화",
+          "use": "극장용",
+          "episodes": "",
+          "ratedYn": "",
+          "repRatDate": "",
+          "repRlsDate": "20170519",
+          "ratings": {
+            "rating": [
+              {
+                "ratingMain": "Y",
+                "ratingDate": "",
+                "ratingNo": "",
+                "ratingGrade": "12세관람가",
+                "releaseDate": "20170519",
+                "runtime": "96"
+              }
+            ]
+          },
+          "keywords": "베스트셀러,베스트셀러원작,시한부인생",
+          "posters": "",
+          "stlls": "",
+          "staffs": {
+            "staff": [
+              {
+                "staffNm": "스텔라 메기",
+                "staffEnNm": "Stella Meghie",
+                "staffRoleGroup": "감독",
+                "staffRole": "",
+                "staffEtc": "",
+                "staffId": "00202815"
+              },
+              {
+                "staffNm": "Nicola Yoon",
+                "staffEnNm": "",
+                "staffRoleGroup": "원작",
+                "staffRole": "",
+                "staffEtc": "",
+                "staffId": ""
+              },
+              {
+                "staffNm": "J. 밀스 구들로",
+                "staffEnNm": "J. Mills Goodloe",
+                "staffRoleGroup": "각색",
+                "staffRole": "",
+                "staffEtc": "",
+                "staffId": "00138744"
+              },
+              {
+                "staffNm": "아만들라 스텐버그",
+                "staffEnNm": "Amandla Stenberg",
+                "staffRoleGroup": "출연",
+                "staffRole": "매디",
+                "staffEtc": "",
+                "staffId": "00202816"
+              },
+              {
+                "staffNm": "닉 로빈슨",
+                "staffEnNm": "Nick Robinson",
+                "staffRoleGroup": "출연",
+                "staffRole": "올리",
+                "staffEtc": "",
+                "staffId": "00202817"
+              },
+              {
+                "staffNm": "애니카 노니 로즈",
+                "staffEnNm": "Anika Noni Rose",
+                "staffRoleGroup": "출연",
+                "staffRole": "폴린",
+                "staffEtc": "",
+                "staffId": "00055340"
+              },
+              {
+                "staffNm": "안나 데 라 레구에라",
+                "staffEnNm": "Ana de la Reguera",
+                "staffRoleGroup": "출연",
+                "staffRole": "칼라",
+                "staffEtc": "",
+                "staffId": "00054492"
+              },
+              {
+                "staffNm": "Alloy Entertainment",
+                "staffEnNm": "",
+                "staffRoleGroup": "제작사",
+                "staffRole": "",
+                "staffEtc": "",
+                "staffId": ""
+              },
+              {
+                "staffNm": "Itaca Films",
+                "staffEnNm": "",
+                "staffRoleGroup": "제작사",
+                "staffRole": "",
+                "staffEtc": "",
+                "staffId": ""
+              },
+              {
+                "staffNm": "Metro-Goldwyn-Mayer (MGM)",
+                "staffEnNm": "Metro-Goldwyn-Mayer (MGM)",
+                "staffRoleGroup": "제작사",
+                "staffRole": "",
+                "staffEtc": "",
+                "staffId": ""
+              }
+            ]
+          },
+          "vods": {
+            "vod": [
+              {
+                "vodClass": "",
+                "vodUrl": ""
+              }
+            ]
+          },
+          "openThtr": "",
+          "stat": [
+            {
+              "screenArea": "",
+              "screenCnt": "",
+              "salesAcc": "",
+              "audiAcc": "",
+              "statSouce": "",
+              "statDate": ""
+            }
+          ],
+          "screenArea": "",
+          "screenCnt": "",
+          "salesAcc": "",
+          "audiAcc": "",
+          "statSouce": "",
+          "statDate": "",
+          "themeSong": "",
+          "soundtrack": "",
+          "fLocation": "",
+          "Awards1": "",
+          "Awards2": "",
+          "regDate": "20170929",
+          "modDate": "20220824",
+          "Codes": {
+            "Code": [
+              {
+                "CodeNm": "FIMS",
+                "CodeNo": "2022A688"
+              }
+            ]
+          },
+          "CommCodes": {
+            "CommCode": [
+              {
+                "CodeNm": "FIMS",
+                "CodeNo": "2022A688"
+              }
+            ]
+          },
+          "ALIAS": "srcKmdb2"
+        },
+        {
+          "DOCID": "F35108",
+          "movieId": "F",
+          "movieSeq": "35108",
+          "title": " 어 버더스 가이드 투  !HS 에브리씽 !HE ",
+          "titleEng": "A Birder's Guide to Everything",
+          "titleOrg": "A Birder's Guide to Everything",
+          "titleEtc": "어버더스가이드투에브리씽^어 버더스 가이드 투 에브리씽^A Birder's Guide to Everything^A Birder's Guide to Everything",
+          "prodYear": "2013",
+          "directors": {
+            "director": [
+              {
+                "directorNm": "롭 마이어",
+                "directorEnNm": "Rob Meyer",
+                "directorId": "00194267"
+              }
+            ]
+          },
+          "actors": {
+            "actor": [
+              {
+                "actorNm": "벤 킹슬리",
+                "actorEnNm": "Ben Kingsley",
+                "actorId": "00048763"
+              },
+              {
+                "actorNm": "코디 스밋-맥피",
+                "actorEnNm": "Kodi Smit-McPhee",
+                "actorId": "00146285"
+              },
+              {
+                "actorNm": "케이티 창",
+                "actorEnNm": "Katie Chang",
+                "actorId": "00174065"
+              },
+              {
+                "actorNm": "알렉스 울프",
+                "actorEnNm": "Alex Wolff",
+                "actorId": "00194268"
+              },
+              {
+                "actorNm": "제임스 르그로스",
+                "actorEnNm": "James LeGros",
+                "actorId": "00049526"
+              },
+              {
+                "actorNm": "다니엘라 라벤더",
+                "actorEnNm": "Daniela Lavender",
+                "actorId": "00194269"
+              },
+              {
+                "actorNm": "에단 콘",
+                "actorEnNm": "Ethan Cohn",
+                "actorId": "00157559"
+              },
+              {
+                "actorNm": "아이라 호킨스",
+                "actorEnNm": "Ira Hawkins",
+                "actorId": "00194270"
+              }
+            ]
+          },
+          "nation": "미국",
+          "company": "",
+          "plots": {
+            "plot": [
+              {
+                "plotLang": "",
+                "plotText": ""
+              }
+            ]
+          },
+          "runtime": "88",
+          "rating": "",
+          "genre": "",
+          "kmdbUrl": "https://www.kmdb.or.kr/db/kor/detail/movie/F/35108",
+          "type": "극영화",
+          "use": "극장용",
+          "episodes": "",
+          "ratedYn": "",
+          "repRatDate": "",
+          "repRlsDate": "",
+          "ratings": {
+            "rating": [
+              {
+                "ratingMain": "Y",
+                "ratingDate": "",
+                "ratingNo": "",
+                "ratingGrade": "",
+                "releaseDate": "",
+                "runtime": "88"
+              }
+            ]
+          },
+          "keywords": "",
+          "posters": "",
+          "stlls": "",
+          "staffs": {
+            "staff": [
+              {
+                "staffNm": "롭 마이어",
+                "staffEnNm": "Rob Meyer",
+                "staffRoleGroup": "감독",
+                "staffRole": "",
+                "staffEtc": "",
+                "staffId": "00194267"
+              },
+              {
+                "staffNm": "루크 마데니",
+                "staffEnNm": "LUKE MATHENY",
+                "staffRoleGroup": "각본",
+                "staffRole": "",
+                "staffEtc": "",
+                "staffId": "00154902"
+              },
+              {
+                "staffNm": "롭 마이어",
+                "staffEnNm": "Rob Meyer",
+                "staffRoleGroup": "각본",
+                "staffRole": "",
+                "staffEtc": "",
+                "staffId": "00194267"
+              },
+              {
+                "staffNm": "벤 킹슬리",
+                "staffEnNm": "Ben Kingsley",
+                "staffRoleGroup": "출연",
+                "staffRole": "",
+                "staffEtc": "",
+                "staffId": "00048763"
+              },
+              {
+                "staffNm": "코디 스밋-맥피",
+                "staffEnNm": "Kodi Smit-McPhee",
+                "staffRoleGroup": "출연",
+                "staffRole": "",
+                "staffEtc": "",
+                "staffId": "00146285"
+              },
+              {
+                "staffNm": "케이티 창",
+                "staffEnNm": "Katie Chang",
+                "staffRoleGroup": "출연",
+                "staffRole": "",
+                "staffEtc": "",
+                "staffId": "00174065"
+              },
+              {
+                "staffNm": "알렉스 울프",
+                "staffEnNm": "Alex Wolff",
+                "staffRoleGroup": "출연",
+                "staffRole": "",
+                "staffEtc": "",
+                "staffId": "00194268"
+              },
+              {
+                "staffNm": "제임스 르그로스",
+                "staffEnNm": "James LeGros",
+                "staffRoleGroup": "출연",
+                "staffRole": "",
+                "staffEtc": "",
+                "staffId": "00049526"
+              },
+              {
+                "staffNm": "다니엘라 라벤더",
+                "staffEnNm": "Daniela Lavender",
+                "staffRoleGroup": "출연",
+                "staffRole": "",
+                "staffEtc": "",
+                "staffId": "00194269"
+              },
+              {
+                "staffNm": "에단 콘",
+                "staffEnNm": "Ethan Cohn",
+                "staffRoleGroup": "출연",
+                "staffRole": "",
+                "staffEtc": "",
+                "staffId": "00157559"
+              },
+              {
+                "staffNm": "아이라 호킨스",
+                "staffEnNm": "Ira Hawkins",
+                "staffRoleGroup": "출연",
+                "staffRole": "",
+                "staffEtc": "",
+                "staffId": "00194270"
+              }
+            ]
+          },
+          "vods": {
+            "vod": [
+              {
+                "vodClass": "",
+                "vodUrl": ""
+              }
+            ]
+          },
+          "openThtr": "",
+          "stat": [
+            {
+              "screenArea": "",
+              "screenCnt": "",
+              "salesAcc": "",
+              "audiAcc": "",
+              "statSouce": "",
+              "statDate": ""
+            }
+          ],
+          "screenArea": "",
+          "screenCnt": "",
+          "salesAcc": "",
+          "audiAcc": "",
+          "statSouce": "",
+          "statDate": "",
+          "themeSong": "",
+          "soundtrack": "",
+          "fLocation": "",
+          "Awards1": "트라이베카 영화제(2013) : 관객상 - 롭 마이어",
+          "Awards2": "",
+          "regDate": "20150923",
+          "modDate": "20150923",
+          "Codes": {
+            "Code": [
+              {
+                "CodeNm": "",
+                "CodeNo": ""
+              }
+            ]
+          },
+          "CommCodes": {
+            "CommCode": [
+              {
+                "CodeNm": "",
+                "CodeNo": ""
+              }
+            ]
+          },
+          "ALIAS": "srcKmdb2"
+        },
+        {
+          "DOCID": "F29831",
+          "movieId": "F",
+          "movieSeq": "29831",
+          "title": "  !HS 에브리씽 !HE  머스트 고",
+          "titleEng": "",
+          "titleOrg": "",
+          "titleEtc": "에브리씽머스트고^에브리씽 머스트 고^Everything Must Go",
+          "prodYear": "2010",
+          "directors": {
+            "director": [
+              {
+                "directorNm": "조단 러쉬",
+                "directorEnNm": "Jordan Rush",
+                "directorId": "00091291"
+              }
+            ]
+          },
+          "actors": {
+            "actor": [
+              {
+                "actorNm": "윌 패럴",
+                "actorEnNm": "Will Ferrell",
+                "actorId": "00123395"
+              },
+              {
+                "actorNm": "레베카 홀",
+                "actorEnNm": "Rebecca Hall",
+                "actorId": "00110765"
+              },
+              {
+                "actorNm": "크리스토퍼 조던 월리스",
+                "actorEnNm": "Christopher Jordan Wallace",
+                "actorId": "00163526"
+              },
+              {
+                "actorNm": "로라 던",
+                "actorEnNm": "Laura Dern",
+                "actorId": "00049748"
+              },
+              {
+                "actorNm": "글렌 하워튼",
+                "actorEnNm": "Glenn Howerton",
+                "actorId": "00163527"
+              }
+            ]
+          },
+          "nation": "미국",
+          "company": "Temple Hill Entertainment",
+          "plots": {
+            "plot": [
+              {
+                "plotLang": "한국어",
+                "plotText": "권고사직, 이혼통보, 카드정지까지! 그래도… 아직 전부를 잃은 것은 아니다!  잘 나가는 회사 중역, 넓은 마당이 있는 번듯한 집… 여유로운 삶을 누리던 평범한 남자 '닉'(윌 페렐)이 회사로부터 해고당한 날, 아내는 이혼을 통보하고 집의 열쇠를 모조리 바꾼 채 그의 모든 물건을 앞마당에 버려두고 떠나버린다. 설상가상으로 차는 압류 당하고, 하루아침에 갈 곳 없는 빈털터리 신세가 되어버린 '닉'은 마당의 쇼파에서 잠을 자고, 마당 수도로 샤워하는 '앞마당 노숙 생활'을 시작한다. 그러던 중 쌓여있던 짐들 속에서 졸업 앨범, 야구공, 낚싯대, 전축 등 물건들을 보며 자신의 지난 날을 되돌아보게 되는 '닉'. 그러나 신용카드는 정지되고, 은행 계좌마저 막혀버리자, '닉'은 근처에서 자전거를 타던 동네 소년 '케니'(크리스토퍼 조던 윌리스)를 고용해 마당의 물건들을 팔기 시작한다. 자신의 물건들이 하나둘씩 팔려나갈 때마다 '닉'은 자신의 내면에 점차 새로운 무언가가 차오르고 있음을 느끼는데…"
+              }
+            ]
+          },
+          "runtime": "96",
+          "rating": "15세관람가",
+          "genre": "드라마,코메디",
+          "kmdbUrl": "https://www.kmdb.or.kr/db/kor/detail/movie/F/29831",
+          "type": "극영화",
+          "use": "극장용",
+          "episodes": "",
+          "ratedYn": "Y",
+          "repRatDate": "20120622",
+          "repRlsDate": "20120712",
+          "ratings": {
+            "rating": [
+              {
+                "ratingMain": "Y",
+                "ratingDate": "20120622",
+                "ratingNo": "2012-F428",
+                "ratingGrade": "15세관람가",
+                "releaseDate": "20120712",
+                "runtime": "96"
+              }
+            ]
+          },
+          "keywords": "권고사직,이혼,카드정지,노숙",
+          "posters": "http://file.koreafilm.or.kr/thm/02/00/01/68/tn_DPF002875.JPG",
+          "stlls": "http://file.koreafilm.or.kr/thm/01/copy/00/40/14/tn_DSFT056528.jpg|http://file.koreafilm.or.kr/thm/01/copy/00/40/14/tn_DSFT056529.jpg|http://file.koreafilm.or.kr/thm/01/copy/00/40/14/tn_DSFT056530.jpg|http://file.koreafilm.or.kr/thm/01/copy/00/40/14/tn_DSFT056531.jpg|http://file.koreafilm.or.kr/thm/01/copy/00/40/14/tn_DSFT056532.jpg|http://file.koreafilm.or.kr/thm/01/copy/00/40/14/tn_DSFT056533.jpg|http://file.koreafilm.or.kr/thm/01/copy/00/40/14/tn_DSFT056534.jpg|http://file.koreafilm.or.kr/thm/01/copy/00/40/14/tn_DSFT056535.jpg|http://file.koreafilm.or.kr/thm/01/copy/00/40/14/tn_DSFT056536.jpg|http://file.koreafilm.or.kr/thm/01/copy/00/40/14/tn_DSFT056537.jpg",
+          "staffs": {
+            "staff": [
+              {
+                "staffNm": "조단 러쉬",
+                "staffEnNm": "Jordan Rush",
+                "staffRoleGroup": "감독",
+                "staffRole": "",
+                "staffEtc": "",
+                "staffId": "00091291"
+              },
+              {
+                "staffNm": "레이몬드 카버",
+                "staffEnNm": "Raymond Carver",
+                "staffRoleGroup": "원작",
+                "staffRole": "",
+                "staffEtc": "",
+                "staffId": "00110663"
+              },
+              {
+                "staffNm": "조단 러쉬",
+                "staffEnNm": "Jordan Rush",
+                "staffRoleGroup": "각본",
+                "staffRole": "",
+                "staffEtc": "",
+                "staffId": "00091291"
+              },
+              {
+                "staffNm": "윌 패럴",
+                "staffEnNm": "Will Ferrell",
+                "staffRoleGroup": "출연",
+                "staffRole": "",
+                "staffEtc": "",
+                "staffId": "00123395"
+              },
+              {
+                "staffNm": "레베카 홀",
+                "staffEnNm": "Rebecca Hall",
+                "staffRoleGroup": "출연",
+                "staffRole": "",
+                "staffEtc": "",
+                "staffId": "00110765"
+              },
+              {
+                "staffNm": "크리스토퍼 조던 월리스",
+                "staffEnNm": "Christopher Jordan Wallace",
+                "staffRoleGroup": "출연",
+                "staffRole": "",
+                "staffEtc": "",
+                "staffId": "00163526"
+              },
+              {
+                "staffNm": "로라 던",
+                "staffEnNm": "Laura Dern",
+                "staffRoleGroup": "출연",
+                "staffRole": "",
+                "staffEtc": "",
+                "staffId": "00049748"
+              },
+              {
+                "staffNm": "글렌 하워튼",
+                "staffEnNm": "Glenn Howerton",
+                "staffRoleGroup": "출연",
+                "staffRole": "",
+                "staffEtc": "",
+                "staffId": "00163527"
+              },
+              {
+                "staffNm": "마크 얼바움",
+                "staffEnNm": "Marc Erlbaum",
+                "staffRoleGroup": "기획",
+                "staffRole": "",
+                "staffEtc": "",
+                "staffId": "00163528"
+              },
+              {
+                "staffNm": "마이클 바렛",
+                "staffEnNm": "Michael Barrett",
+                "staffRoleGroup": "촬영",
+                "staffRole": "",
+                "staffEtc": "",
+                "staffId": "00102128"
+              },
+              {
+                "staffNm": "데이빗 톤",
+                "staffEnNm": "David Torn",
+                "staffRoleGroup": "음악",
+                "staffRole": "",
+                "staffEtc": "",
+                "staffId": "00066269"
+              },
+              {
+                "staffNm": "카라 린드스트롬",
+                "staffEnNm": "Kara Lindstrom",
+                "staffRoleGroup": "미술",
+                "staffRole": "",
+                "staffEtc": "",
+                "staffId": "00149485"
+              },
+              {
+                "staffNm": "Temple Hill Entertainment",
+                "staffEnNm": "",
+                "staffRoleGroup": "제작사",
+                "staffRole": "",
+                "staffEtc": "",
+                "staffId": ""
+              },
+              {
+                "staffNm": "㈜키노아이",
+                "staffEnNm": "",
+                "staffRoleGroup": "배급사",
+                "staffRole": "",
+                "staffEtc": "",
+                "staffId": ""
+              },
+              {
+                "staffNm": "㈜키노아이",
+                "staffEnNm": "",
+                "staffRoleGroup": "수입사",
+                "staffRole": "",
+                "staffEtc": "",
+                "staffId": ""
+              }
+            ]
+          },
+          "vods": {
+            "vod": [
+              {
+                "vodClass": "예고편(30초)",
+                "vodUrl": "https://www.kmdb.or.kr/db/kor/detail/movie/F/29831/own/videoData"
+              },
+              {
+                "vodClass": "예고편()",
+                "vodUrl": "https://www.kmdb.or.kr/db/kor/detail/movie/F/29831/own/videoData"
+              },
+              {
+                "vodClass": "메이킹()",
+                "vodUrl": "https://www.kmdb.or.kr/db/kor/detail/movie/F/29831/own/videoData"
+              }
+            ]
+          },
+          "openThtr": "",
+          "stat": [
+            {
+              "screenArea": "",
+              "screenCnt": "",
+              "salesAcc": "",
+              "audiAcc": "",
+              "statSouce": "",
+              "statDate": ""
+            }
+          ],
+          "screenArea": "",
+          "screenCnt": "",
+          "salesAcc": "",
+          "audiAcc": "",
+          "statSouce": "",
+          "statDate": "",
+          "themeSong": "",
+          "soundtrack": "",
+          "fLocation": "",
+          "Awards1": "",
+          "Awards2": "",
+          "regDate": "20120619",
+          "modDate": "20211207",
+          "Codes": {
+            "Code": [
+              {
+                "CodeNm": "FIMS",
+                "CodeNo": "20127427"
+              }
+            ]
+          },
+          "CommCodes": {
+            "CommCode": [
+              {
+                "CodeNm": "FIMS",
+                "CodeNo": "20127427"
+              }
+            ]
+          },
+          "ALIAS": "srcKmdb2"
+        },
+        {
+          "DOCID": "F30520",
+          "movieId": "F",
+          "movieSeq": "30520",
+          "title": " 올 굿  !HS 에브리씽 !HE ",
+          "titleEng": "",
+          "titleOrg": "All Good Things",
+          "titleEtc": "올굿에브리씽^올 굿 에브리씽^All Good Things^All Good Things",
+          "prodYear": "2010",
+          "directors": {
+            "director": [
+              {
+                "directorNm": "앤드루 재러키",
+                "directorEnNm": "Andrew Jarecki",
+                "directorId": "00054939"
+              }
+            ]
+          },
+          "actors": {
+            "actor": [
+              {
+                "actorNm": "커스틴 던스트",
+                "actorEnNm": "Kirsten Dunst",
+                "actorId": "00048835"
+              },
+              {
+                "actorNm": "라이언 고슬링",
+                "actorEnNm": "Ryan Gosling",
+                "actorId": "00114241"
+              },
+              {
+                "actorNm": "크리스턴 위그",
+                "actorEnNm": "Kristen Wiig",
+                "actorId": "00095038"
+              },
+              {
+                "actorNm": "프랭크 란젤라",
+                "actorEnNm": "Frank Langella",
+                "actorId": "00049803"
+              },
+              {
+                "actorNm": "다이안 베노라",
+                "actorEnNm": "Diane Venora",
+                "actorId": "00067203"
+              },
+              {
+                "actorNm": "조 리스터 존스",
+                "actorEnNm": "Zoe Lister Jones",
+                "actorId": "00167595"
+              },
+              {
+                "actorNm": "필립 베이커 홀",
+                "actorEnNm": "Philip Baker Hall",
+                "actorId": "00109188"
+              },
+              {
+                "actorNm": "닉 오퍼맨",
+                "actorEnNm": "Nick Offerman",
+                "actorId": "00167596"
+              },
+              {
+                "actorNm": "존 도먼",
+                "actorEnNm": "John Doman",
+                "actorId": "00089979"
+              },
+              {
+                "actorNm": "트리니 알바라도",
+                "actorEnNm": "Trini Alvarado",
+                "actorId": "00121448"
+              },
+              {
+                "actorNm": "존 컬럼",
+                "actorEnNm": "John Cullum",
+                "actorId": "00167597"
+              },
+              {
+                "actorNm": "리즈 스타우버",
+                "actorEnNm": "Liz Stauber",
+                "actorId": "00097222"
+              },
+              {
+                "actorNm": "릴리 라베",
+                "actorEnNm": "Lily Rabe",
+                "actorId": "00167598"
+              },
+              {
+                "actorNm": "애슈리 앳킨슨",
+                "actorEnNm": "Ashlie Atkinson",
+                "actorId": "00056796"
+              }
+            ]
+          },
+          "nation": "미국",
+          "company": "",
+          "plots": {
+            "plot": [
+              {
+                "plotLang": "한국어",
+                "plotText": "그들의 사랑도, 결혼도 모두 완벽해 보였다! 재벌가의 상속자 데이빗과 평범한 집안의 의대 지망생 케이티. 그들은 집안에 반대에도 불구하고 결혼해, 시골에 가게를 차려 행복하게 살아간다. 그러던 중, 데이빗의 아버지가 찾아와 가업을 이으라고 하고, 케이티에게 화려하고 편안한 삶을 마련해주고 싶었던 데이빗은 아버지의 일을 돕게 된다. 결혼 후 서서히 변해가는 남편의 모습 때문에 힘들어 하던 케이티가 어느날 실종되고, 이 사건은 범인을 찾지 못한 채, 미제 사건으로 남는다. 20년후, 새로운 증거를 바탕으로 케이티의 실종에 대한 재 조사가 시작되고, 숨겨졌던 진실이 밝혀지는데.."
+              },
+              {
+                "plotLang": "영어",
+                "plotText": "A love story and murder mystery based on the most notorious unsolved murder case in New York history. The original screenplay uses newly discovered facts, court records and speculation as the foundation for a story of family, obsession, love and loss."
+              }
+            ]
+          },
+          "runtime": "101",
+          "rating": "18세관람가(청소년관람불가)",
+          "genre": "드라마,미스터리",
+          "kmdbUrl": "https://www.kmdb.or.kr/db/kor/detail/movie/F/30520",
+          "type": "극영화",
+          "use": "극장용",
+          "episodes": "",
+          "ratedYn": "Y",
+          "repRatDate": "20121026",
+          "repRlsDate": "20121122",
+          "ratings": {
+            "rating": [
+              {
+                "ratingMain": "Y",
+                "ratingDate": "20121026",
+                "ratingNo": "2012-F815",
+                "ratingGrade": "18세관람가(청소년관람불가)",
+                "releaseDate": "20121122",
+                "runtime": "101"
+              }
+            ]
+          },
+          "keywords": "재벌2세,의대생,실종사건,미제사건",
+          "posters": "http://file.koreafilm.or.kr/thm/02/00/02/26/tn_DPF004967.JPG",
+          "stlls": "",
+          "staffs": {
+            "staff": [
+              {
+                "staffNm": "앤드루 재러키",
+                "staffEnNm": "Andrew Jarecki",
+                "staffRoleGroup": "감독",
+                "staffRole": "",
+                "staffEtc": "",
+                "staffId": "00054939"
+              },
+              {
+                "staffNm": "마커스 힌체이",
+                "staffEnNm": "Marcus Hinchey",
+                "staffRoleGroup": "각본",
+                "staffRole": "",
+                "staffEtc": "",
+                "staffId": "00167600"
+              },
+              {
+                "staffNm": "마크 스멀링",
+                "staffEnNm": "Marc Smerling",
+                "staffRoleGroup": "각본",
+                "staffRole": "",
+                "staffEtc": "",
+                "staffId": "00167601"
+              },
+              {
+                "staffNm": "커스틴 던스트",
+                "staffEnNm": "Kirsten Dunst",
+                "staffRoleGroup": "출연",
+                "staffRole": "케이티 마크스",
+                "staffEtc": "",
+                "staffId": "00048835"
+              },
+              {
+                "staffNm": "라이언 고슬링",
+                "staffEnNm": "Ryan Gosling",
+                "staffRoleGroup": "출연",
+                "staffRole": "데이빗 마크스",
+                "staffEtc": "",
+                "staffId": "00114241"
+              },
+              {
+                "staffNm": "크리스턴 위그",
+                "staffEnNm": "Kristen Wiig",
+                "staffRoleGroup": "출연",
+                "staffRole": "로렌 플렉",
+                "staffEtc": "",
+                "staffId": "00095038"
+              },
+              {
+                "staffNm": "프랭크 란젤라",
+                "staffEnNm": "Frank Langella",
+                "staffRoleGroup": "출연",
+                "staffRole": "샌포드 마크스",
+                "staffEtc": "",
+                "staffId": "00049803"
+              },
+              {
+                "staffNm": "다이안 베노라",
+                "staffEnNm": "Diane Venora",
+                "staffRoleGroup": "출연",
+                "staffRole": "제니스 리쪼",
+                "staffEtc": "",
+                "staffId": "00067203"
+              },
+              {
+                "staffNm": "조 리스터 존스",
+                "staffEnNm": "Zoe Lister Jones",
+                "staffRoleGroup": "출연",
+                "staffRole": "",
+                "staffEtc": "",
+                "staffId": "00167595"
+              },
+              {
+                "staffNm": "필립 베이커 홀",
+                "staffEnNm": "Philip Baker Hall",
+                "staffRoleGroup": "출연",
+                "staffRole": "맬번 범프",
+                "staffEtc": "",
+                "staffId": "00109188"
+              },
+              {
+                "staffNm": "닉 오퍼맨",
+                "staffEnNm": "Nick Offerman",
+                "staffRoleGroup": "출연",
+                "staffRole": "짐 맥카시",
+                "staffEtc": "",
+                "staffId": "00167596"
+              },
+              {
+                "staffNm": "존 도먼",
+                "staffEnNm": "John Doman",
+                "staffRoleGroup": "출연",
+                "staffRole": "마이크 머피",
+                "staffEtc": "",
+                "staffId": "00089979"
+              },
+              {
+                "staffNm": "트리니 알바라도",
+                "staffEnNm": "Trini Alvarado",
+                "staffRoleGroup": "출연",
+                "staffRole": "사라 데이비스",
+                "staffEtc": "",
+                "staffId": "00121448"
+              },
+              {
+                "staffNm": "존 컬럼",
+                "staffEnNm": "John Cullum",
+                "staffRoleGroup": "출연",
+                "staffRole": "리차드 파나티어르",
+                "staffEtc": "",
+                "staffId": "00167597"
+              },
+              {
+                "staffNm": "리즈 스타우버",
+                "staffEnNm": "Liz Stauber",
+                "staffRoleGroup": "출연",
+                "staffRole": "샤론 맥카시",
+                "staffEtc": "",
+                "staffId": "00097222"
+              },
+              {
+                "staffNm": "릴리 라베",
+                "staffEnNm": "Lily Rabe",
+                "staffRoleGroup": "출연",
+                "staffRole": "데보라 레만",
+                "staffEtc": "",
+                "staffId": "00167598"
+              },
+              {
+                "staffNm": "애슈리 앳킨슨",
+                "staffEnNm": "Ashlie Atkinson",
+                "staffRoleGroup": "출연",
+                "staffRole": "보니 펠더",
+                "staffEtc": "",
+                "staffId": "00056796"
+              },
+              {
+                "staffNm": "앤드루 재러키",
+                "staffEnNm": "Andrew Jarecki",
+                "staffRoleGroup": "제작자",
+                "staffRole": "",
+                "staffEtc": "",
+                "staffId": "00054939"
+              },
+              {
+                "staffNm": "마이클 런던",
+                "staffEnNm": "Michael London",
+                "staffRoleGroup": "제작자",
+                "staffRole": "",
+                "staffEtc": "",
+                "staffId": "00102638"
+              },
+              {
+                "staffNm": "브루나 파판드레아",
+                "staffEnNm": "Bruna Papandrea",
+                "staffRoleGroup": "제작자",
+                "staffRole": "",
+                "staffEtc": "",
+                "staffId": "00059940"
+              },
+              {
+                "staffNm": "마크 스멀링",
+                "staffEnNm": "Marc Smerling",
+                "staffRoleGroup": "제작자",
+                "staffRole": "",
+                "staffEtc": "",
+                "staffId": "00167601"
+              },
+              {
+                "staffNm": "제니퍼 로겐",
+                "staffEnNm": "Jennifer Rogen",
+                "staffRoleGroup": "프로듀서",
+                "staffRole": "",
+                "staffEtc": "",
+                "staffId": "00167602"
+              },
+              {
+                "staffNm": "마이클 세레신",
+                "staffEnNm": "Michael Seresin",
+                "staffRoleGroup": "촬영",
+                "staffRole": "",
+                "staffEtc": "",
+                "staffId": "00102893"
+              },
+              {
+                "staffNm": "데이비드 로젠블룸",
+                "staffEnNm": "David Rosenbloom",
+                "staffRoleGroup": "편집",
+                "staffRole": "",
+                "staffEtc": "",
+                "staffId": "00066151"
+              },
+              {
+                "staffNm": "셀비 시겔",
+                "staffEnNm": "Shelby Siegel",
+                "staffRoleGroup": "편집",
+                "staffRole": "",
+                "staffEtc": "",
+                "staffId": "00155305"
+              },
+              {
+                "staffNm": "롭 사이몬센",
+                "staffEnNm": "Rob Simonsen",
+                "staffRoleGroup": "음악",
+                "staffRole": "",
+                "staffEtc": "",
+                "staffId": "00149621"
+              },
+              {
+                "staffNm": "러셀 반스",
+                "staffEnNm": "Russell Barnes",
+                "staffRoleGroup": "미술",
+                "staffRole": "",
+                "staffEtc": "",
+                "staffId": "00167604"
+              },
+              {
+                "staffNm": "리치 드바인",
+                "staffEnNm": "Rich Devine",
+                "staffRoleGroup": "세트",
+                "staffRole": "",
+                "staffEtc": "",
+                "staffId": "00167603"
+              },
+              {
+                "staffNm": "마이클 클런시",
+                "staffEnNm": "Michael Clancy",
+                "staffRoleGroup": "의상",
+                "staffRole": "",
+                "staffEtc": "",
+                "staffId": "00167605"
+              },
+              {
+                "staffNm": "더글러스 아이벨",
+                "staffEnNm": "",
+                "staffRoleGroup": "기타스탭",
+                "staffRole": "캐스팅",
+                "staffEtc": "",
+                "staffId": ""
+              },
+              {
+                "staffNm": "페어팍스인터내셔날",
+                "staffEnNm": "",
+                "staffRoleGroup": "배급사",
+                "staffRole": "",
+                "staffEtc": "",
+                "staffId": ""
+              },
+              {
+                "staffNm": "페어팍스인터내셔날",
+                "staffEnNm": "",
+                "staffRoleGroup": "수입사",
+                "staffRole": "",
+                "staffEtc": "",
+                "staffId": ""
+              }
+            ]
+          },
+          "vods": {
+            "vod": [
+              {
+                "vodClass": "",
+                "vodUrl": ""
+              }
+            ]
+          },
+          "openThtr": "",
+          "stat": [
+            {
+              "screenArea": "",
+              "screenCnt": "",
+              "salesAcc": "",
+              "audiAcc": "",
+              "statSouce": "",
+              "statDate": ""
+            }
+          ],
+          "screenArea": "",
+          "screenCnt": "",
+          "salesAcc": "",
+          "audiAcc": "",
+          "statSouce": "",
+          "statDate": "",
+          "themeSong": "",
+          "soundtrack": "",
+          "fLocation": "",
+          "Awards1": "로저 이버트 Roger Ebert TOP 10(2010) : 2군 베스트 10 -",
+          "Awards2": "",
+          "regDate": "20121206",
+          "modDate": "20211207",
+          "Codes": {
+            "Code": [
+              {
+                "CodeNm": "FIMS",
+                "CodeNo": "20121822"
+              }
+            ]
+          },
+          "CommCodes": {
+            "CommCode": [
+              {
+                "CodeNm": "FIMS",
+                "CodeNo": "20121822"
+              }
+            ]
+          },
+          "ALIAS": "srcKmdb2"
+        },
+        {
+          "DOCID": "F27931",
+          "movieId": "F",
+          "movieSeq": "27931",
+          "title": "  !HS 에브리씽 !HE  유브 갓 하우 두 유 노우?",
+          "titleEng": "",
+          "titleOrg": "",
+          "titleEtc": "에브리씽 유브 갓 하우 두 유 노우?^How Do You Know^에브리씽유브갓하우두유노우?^HowDoYouKnow^",
+          "prodYear": "2010",
+          "directors": {
+            "director": [
+              {
+                "directorNm": "제임스 L. 브룩스",
+                "directorEnNm": "James L. Brooks",
+                "directorId": "00086100"
+              }
+            ]
+          },
+          "actors": {
+            "actor": [
+              {
+                "actorNm": "리즈 위더스푼",
+                "actorEnNm": "Reese Witherspoon",
+                "actorId": "00110833"
+              },
+              {
+                "actorNm": "폴 러드",
+                "actorEnNm": "Paul Rudd",
+                "actorId": "00107959"
+              },
+              {
+                "actorNm": "오웬 윌슨",
+                "actorEnNm": "Owen Wilson",
+                "actorId": "00050002"
+              },
+              {
+                "actorNm": "잭 니콜슨",
+                "actorEnNm": "Jack Nicholson",
+                "actorId": "00049119"
+              },
+              {
+                "actorNm": "마크 린 베이커",
+                "actorEnNm": "Mark Linn-Baker",
+                "actorId": "00100094"
+              }
+            ]
+          },
+          "nation": "미국",
+          "company": "",
+          "plots": {
+            "plot": [
+              {
+                "plotLang": "한국어",
+                "plotText": "어린 시절부터 소프트볼에 매달려 살아온 리사는 국가 대표선수가 되는 것이 꿈. 그런데 국가대표 최종선발에서 탈락하면서 크게 실망한 리사는 운동을 떠난 보통의 삶으로 돌아간다. 메이저리그 팀인 워싱턴 내셔널스의 구원투수인 매티와 데이트 하게 된 리사. 그러나 리사를 사랑하면서도 철이 없고 자기 위주인 매티와 갈등을 겪는다. 때마침 그녀 앞에 등장한 또 한 명의 남자, 자기 아버지 찰스가 회장으로 있는 회사의 중역으로 온순하고 착한 조지. 조지는 찰스가 회계 부정을 한 것에 대해 억울하게 누명을 쓰고 기소 직전의 상태이다. 리사는 선수선발에서 탈락되고 조지는 검찰로부터 소환장을 받은 날 두 사람은 만나게 된다. 리사는 매티와 조지 사이를 오락가락하면서 어느 남자가 진짜 사랑인지를 몰라 고민하는데…."
+              }
+            ]
+          },
+          "runtime": "121",
+          "rating": "",
+          "genre": "코메디,멜로드라마",
+          "kmdbUrl": "https://www.kmdb.or.kr/db/kor/detail/movie/F/27931",
+          "type": "극영화",
+          "use": "극장용",
+          "episodes": "",
+          "ratedYn": "",
+          "repRatDate": "",
+          "repRlsDate": "",
+          "ratings": {
+            "rating": [
+              {
+                "ratingMain": "Y",
+                "ratingDate": "",
+                "ratingNo": "",
+                "ratingGrade": "",
+                "releaseDate": "",
+                "runtime": "121"
+              }
+            ]
+          },
+          "keywords": "소프트볼,국가대표,탈락,투수,중역,회계,부정,누명",
+          "posters": "http://file.koreafilm.or.kr/thm/02/00/02/33/tn_DPF005149.JPG",
+          "stlls": "",
+          "staffs": {
+            "staff": [
+              {
+                "staffNm": "제임스 L. 브룩스",
+                "staffEnNm": "James L. Brooks",
+                "staffRoleGroup": "감독",
+                "staffRole": "",
+                "staffEtc": "",
+                "staffId": "00086100"
+              },
+              {
+                "staffNm": "제임스 L. 브룩스",
+                "staffEnNm": "James L. Brooks",
+                "staffRoleGroup": "각본",
+                "staffRole": "",
+                "staffEtc": "",
+                "staffId": "00086100"
+              },
+              {
+                "staffNm": "리즈 위더스푼",
+                "staffEnNm": "Reese Witherspoon",
+                "staffRoleGroup": "출연",
+                "staffRole": "",
+                "staffEtc": "",
+                "staffId": "00110833"
+              },
+              {
+                "staffNm": "폴 러드",
+                "staffEnNm": "Paul Rudd",
+                "staffRoleGroup": "출연",
+                "staffRole": "",
+                "staffEtc": "",
+                "staffId": "00107959"
+              },
+              {
+                "staffNm": "오웬 윌슨",
+                "staffEnNm": "Owen Wilson",
+                "staffRoleGroup": "출연",
+                "staffRole": "",
+                "staffEtc": "",
+                "staffId": "00050002"
+              },
+              {
+                "staffNm": "잭 니콜슨",
+                "staffEnNm": "Jack Nicholson",
+                "staffRoleGroup": "출연",
+                "staffRole": "",
+                "staffEtc": "",
+                "staffId": "00049119"
+              },
+              {
+                "staffNm": "마크 린 베이커",
+                "staffEnNm": "Mark Linn-Baker",
+                "staffRoleGroup": "출연",
+                "staffRole": "",
+                "staffEtc": "",
+                "staffId": "00100094"
+              },
+              {
+                "staffNm": "제임스 L. 브룩스",
+                "staffEnNm": "James L. Brooks",
+                "staffRoleGroup": "제작자",
+                "staffRole": "",
+                "staffEtc": "",
+                "staffId": "00086100"
+              },
+              {
+                "staffNm": "존 D. 스코필드",
+                "staffEnNm": "John D. Schofield",
+                "staffRoleGroup": "기획",
+                "staffRole": "",
+                "staffEtc": "",
+                "staffId": "00089930"
+              },
+              {
+                "staffNm": "야누스 카민스키",
+                "staffEnNm": "Janusz Kaminski",
+                "staffRoleGroup": "촬영",
+                "staffRole": "",
+                "staffEtc": "",
+                "staffId": "00086728"
+              },
+              {
+                "staffNm": "리차드 마크스",
+                "staffEnNm": "Richard Marks",
+                "staffRoleGroup": "편집",
+                "staffRole": "",
+                "staffEtc": "",
+                "staffId": "00111655"
+              },
+              {
+                "staffNm": "한스 짐머",
+                "staffEnNm": "Hans Zimmer",
+                "staffRoleGroup": "음악",
+                "staffRole": "",
+                "staffEtc": "",
+                "staffId": "00075672"
+              },
+              {
+                "staffNm": "존 드미오",
+                "staffEnNm": "John DeMeo",
+                "staffRoleGroup": "미술",
+                "staffRole": "",
+                "staffEtc": "",
+                "staffId": "00089959"
+              }
+            ]
+          },
+          "vods": {
+            "vod": [
+              {
+                "vodClass": "",
+                "vodUrl": ""
+              }
+            ]
+          },
+          "openThtr": "",
+          "stat": [
+            {
+              "screenArea": "",
+              "screenCnt": "",
+              "salesAcc": "",
+              "audiAcc": "",
+              "statSouce": "",
+              "statDate": ""
+            }
+          ],
+          "screenArea": "",
+          "screenCnt": "",
+          "salesAcc": "",
+          "audiAcc": "",
+          "statSouce": "",
+          "statDate": "",
+          "themeSong": "",
+          "soundtrack": "",
+          "fLocation": "",
+          "Awards1": "",
+          "Awards2": "",
+          "regDate": "20110503",
+          "modDate": "20110503",
+          "Codes": {
+            "Code": [
+              {
+                "CodeNm": "",
+                "CodeNo": ""
+              }
+            ]
+          },
+          "CommCodes": {
+            "CommCode": [
+              {
+                "CodeNm": "",
+                "CodeNo": ""
+              }
+            ]
+          },
+          "ALIAS": "srcKmdb2"
+        }
+      ]
+    }
+  ]
+}

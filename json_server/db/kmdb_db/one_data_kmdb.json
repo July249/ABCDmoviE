@@ -1,0 +1,385 @@
+{
+  "Query": "",
+  "KMAQuery": "에브리 씽 에브리씽",
+  "TotalCount": 1,
+  "Data": [
+    {
+      "CollName": "kmdb_new2",
+      "TotalCount": 1,
+      "Count": 1,
+      "Result": [
+        {
+          "DOCID": "F56635",
+          "movieId": "F",
+          "movieSeq": "56635",
+          "title": "  !HS 에브리씽 !HE   !HS 에브리 !HE 웨어 올 앳 원스",
+          "titleEng": "Everything Everywhere All at Once",
+          "titleOrg": "Everything Everywhere All at Once",
+          "titleEtc": "에브리씽에브리웨어올앳원스^에브리씽 에브리웨어 올 앳 원스^Everything Everywhere All at Once^에브리씽 에브리웨어 올앳 원스, 에브리씽 에브리웨어 올앳원스, 에브리씽에브리웨어 올 앳 원스^Everything Everywhere All at Once",
+          "prodYear": "2022",
+          "directors": {
+            "director": [
+              {
+                "directorNm": "다니엘 콴",
+                "directorEnNm": "",
+                "directorId": ""
+              },
+              {
+                "directorNm": "다니엘 쉐이너트",
+                "directorEnNm": "",
+                "directorId": ""
+              }
+            ]
+          },
+          "actors": {
+            "actor": [
+              {
+                "actorNm": "양자경",
+                "actorEnNm": "Michelle Yeoh",
+                "actorId": "00048957"
+              },
+              {
+                "actorNm": "스테파니 수",
+                "actorEnNm": "",
+                "actorId": ""
+              },
+              {
+                "actorNm": "키 호이 콴",
+                "actorEnNm": "Jonathan Ke Quan",
+                "actorId": "00048973"
+              },
+              {
+                "actorNm": "제니 슬레이트",
+                "actorEnNm": "Jenny Slate",
+                "actorId": "00202707"
+              },
+              {
+                "actorNm": "해리 슘 주니어",
+                "actorEnNm": "Harry Shum Jr.",
+                "actorId": "00075977"
+              },
+              {
+                "actorNm": "제임스 홍",
+                "actorEnNm": "James Hong",
+                "actorId": "00086059"
+              },
+              {
+                "actorNm": "제이미 리 커티스",
+                "actorEnNm": "Jamie Lee Curtis",
+                "actorId": "00048597"
+              }
+            ]
+          },
+          "nation": "미국",
+          "company": "AGBO Production,Year of The Rat,A24",
+          "plots": {
+            "plot": [
+              {
+                "plotLang": "한국어",
+                "plotText": "미국에 이민와 힘겹게 세탁소를 운영하던 에블린은 세무당국의 조사에 시달리던 어느 날 남편의 이혼 요구와 삐딱하게 구는 딸로 인해 대혼란에 빠진다. 그 순간 에블린은 멀티버스 안에서 수천, 수만의 자신이 세상을 살아가고 있다는 사실을 알게 되고, 그 모든 능력을 빌려와 위기의 세상과 가족을 구해야하는 운명에 처한다."
+              }
+            ]
+          },
+          "runtime": "139",
+          "rating": "15세관람가",
+          "genre": "액션,어드벤처,판타지,SF,코메디",
+          "kmdbUrl": "https://www.kmdb.or.kr/db/kor/detail/movie/F/56635",
+          "type": "극영화",
+          "use": "극장용",
+          "episodes": "",
+          "ratedYn": "Y",
+          "repRatDate": "20220920",
+          "repRlsDate": "20221012",
+          "ratings": {
+            "rating": [
+              {
+                "ratingMain": "0||Y",
+                "ratingDate": "0||20220920",
+                "ratingNo": "0||2022-MF02367",
+                "ratingGrade": "15세관람가||15세관람가",
+                "releaseDate": "20221123||20221012",
+                "runtime": "149||139"
+              }
+            ]
+          },
+          "keywords": "",
+          "posters": "http://file.koreafilm.or.kr/thm/02/99/17/80/tn_DPF025828.jpg|http://file.koreafilm.or.kr/thm/02/99/17/87/tn_DPF026126.jpg|http://file.koreafilm.or.kr/thm/02/99/17/83/tn_DPF025939.jpg|http://file.koreafilm.or.kr/thm/02/99/17/83/tn_DPF025940.jpg|http://file.koreafilm.or.kr/thm/02/99/17/82/tn_DPF025889.jpg|http://file.koreafilm.or.kr/thm/02/99/17/78/tn_DPF025769.jpg|http://file.koreafilm.or.kr/thm/02/99/17/83/tn_DPF025943.jpg|http://file.koreafilm.or.kr/thm/02/99/17/84/tn_DPF025977.jpg|http://file.koreafilm.or.kr/thm/02/99/17/85/tn_DPF026010.jpg|http://file.koreafilm.or.kr/thm/02/99/17/85/tn_DPF026027.jpg|http://file.koreafilm.or.kr/thm/02/99/17/80/tn_DPF025834.jpg|http://file.koreafilm.or.kr/thm/02/99/17/81/tn_DPF025874.jpg|http://file.koreafilm.or.kr/thm/02/99/17/84/tn_DPF025968.jpg",
+          "stlls": "http://file.koreafilm.or.kr/thm/01/copy/00/63/01/tn_DST782534.jpg|http://file.koreafilm.or.kr/thm/01/copy/00/63/04/tn_DST782825.jpg|http://file.koreafilm.or.kr/thm/01/copy/00/63/08/tn_DST783175.jpg|http://file.koreafilm.or.kr/thm/01/copy/00/63/08/tn_DST783177.jpg|http://file.koreafilm.or.kr/thm/01/copy/00/63/08/tn_DST783178.jpg|http://file.koreafilm.or.kr/thm/01/copy/00/63/04/tn_DST782826.jpg|http://file.koreafilm.or.kr/thm/01/copy/00/63/07/tn_DST783171.jpg|http://file.koreafilm.or.kr/thm/01/copy/00/62/98/tn_DST782295.jpg|http://file.koreafilm.or.kr/thm/01/copy/00/62/78/tn_DST780342.jpg|http://file.koreafilm.or.kr/thm/01/copy/00/63/20/tn_DST784346.jpg",
+          "staffs": {
+            "staff": [
+              {
+                "staffNm": "다니엘 콴",
+                "staffEnNm": "",
+                "staffRoleGroup": "감독",
+                "staffRole": "",
+                "staffEtc": "",
+                "staffId": ""
+              },
+              {
+                "staffNm": "다니엘 쉐이너트",
+                "staffEnNm": "",
+                "staffRoleGroup": "감독",
+                "staffRole": "",
+                "staffEtc": "",
+                "staffId": ""
+              },
+              {
+                "staffNm": "다니엘 콴",
+                "staffEnNm": "",
+                "staffRoleGroup": "각본",
+                "staffRole": "",
+                "staffEtc": "",
+                "staffId": ""
+              },
+              {
+                "staffNm": "다니엘 쉐이너트",
+                "staffEnNm": "",
+                "staffRoleGroup": "각본",
+                "staffRole": "",
+                "staffEtc": "",
+                "staffId": ""
+              },
+              {
+                "staffNm": "양자경",
+                "staffEnNm": "Michelle Yeoh",
+                "staffRoleGroup": "출연",
+                "staffRole": "에블린 왕",
+                "staffEtc": "",
+                "staffId": "00048957"
+              },
+              {
+                "staffNm": "스테파니 수",
+                "staffEnNm": "",
+                "staffRoleGroup": "출연",
+                "staffRole": "조이 왕/조부 투파키",
+                "staffEtc": "",
+                "staffId": ""
+              },
+              {
+                "staffNm": "키 호이 콴",
+                "staffEnNm": "Jonathan Ke Quan",
+                "staffRoleGroup": "출연",
+                "staffRole": "웨이몬드 왕",
+                "staffEtc": "",
+                "staffId": "00048973"
+              },
+              {
+                "staffNm": "제니 슬레이트",
+                "staffEnNm": "Jenny Slate",
+                "staffRoleGroup": "출연",
+                "staffRole": "데비",
+                "staffEtc": "",
+                "staffId": "00202707"
+              },
+              {
+                "staffNm": "해리 슘 주니어",
+                "staffEnNm": "Harry Shum Jr.",
+                "staffRoleGroup": "출연",
+                "staffRole": "채드",
+                "staffEtc": "",
+                "staffId": "00075977"
+              },
+              {
+                "staffNm": "제임스 홍",
+                "staffEnNm": "James Hong",
+                "staffRoleGroup": "출연",
+                "staffRole": "공 공",
+                "staffEtc": "",
+                "staffId": "00086059"
+              },
+              {
+                "staffNm": "제이미 리 커티스",
+                "staffEnNm": "Jamie Lee Curtis",
+                "staffRoleGroup": "출연",
+                "staffRole": "디어드레 보베어드레",
+                "staffEtc": "",
+                "staffId": "00048597"
+              },
+              {
+                "staffNm": "조 루소",
+                "staffEnNm": "Joe Russo",
+                "staffRoleGroup": "제작자",
+                "staffRole": "",
+                "staffEtc": "",
+                "staffId": "00089467"
+              },
+              {
+                "staffNm": "안소니 루소",
+                "staffEnNm": "Anthony Russo",
+                "staffRoleGroup": "제작자",
+                "staffRole": "",
+                "staffEtc": "",
+                "staffId": "00055995"
+              },
+              {
+                "staffNm": "AGBO Production",
+                "staffEnNm": "",
+                "staffRoleGroup": "제작사",
+                "staffRole": "",
+                "staffEtc": "",
+                "staffId": ""
+              },
+              {
+                "staffNm": "Year of The Rat",
+                "staffEnNm": "",
+                "staffRoleGroup": "제작사",
+                "staffRole": "",
+                "staffEtc": "",
+                "staffId": ""
+              },
+              {
+                "staffNm": "A24",
+                "staffEnNm": "A24",
+                "staffRoleGroup": "제작사",
+                "staffRole": "",
+                "staffEtc": "",
+                "staffId": ""
+              },
+              {
+                "staffNm": "비케이 시네윈",
+                "staffEnNm": "",
+                "staffRoleGroup": "투자사",
+                "staffRole": "공동제공",
+                "staffEtc": "",
+                "staffId": ""
+              },
+              {
+                "staffNm": "(주)노바미디어",
+                "staffEnNm": "",
+                "staffRoleGroup": "투자사",
+                "staffRole": "공동제공",
+                "staffEtc": "",
+                "staffId": ""
+              },
+              {
+                "staffNm": "(주)하이스트레인저",
+                "staffEnNm": "",
+                "staffRoleGroup": "투자사",
+                "staffRole": "공동제공",
+                "staffEtc": "",
+                "staffId": ""
+              },
+              {
+                "staffNm": "티케엔터테인먼트",
+                "staffEnNm": "",
+                "staffRoleGroup": "투자사",
+                "staffRole": "공동제공",
+                "staffEtc": "",
+                "staffId": ""
+              },
+              {
+                "staffNm": "(주)아우라씨엔씨",
+                "staffEnNm": "",
+                "staffRoleGroup": "투자사",
+                "staffRole": "공동제공",
+                "staffEtc": "",
+                "staffId": ""
+              },
+              {
+                "staffNm": "워터홀 컴퍼니㈜",
+                "staffEnNm": "WATERHOLE COMPANY",
+                "staffRoleGroup": "배급사",
+                "staffRole": "",
+                "staffEtc": "",
+                "staffId": ""
+              },
+              {
+                "staffNm": "(주)더쿱디스트리뷰션",
+                "staffEnNm": "",
+                "staffRoleGroup": "수입사",
+                "staffRole": "",
+                "staffEtc": "",
+                "staffId": ""
+              }
+            ]
+          },
+          "vods": {
+            "vod": [
+              {
+                "vodClass": "기타(다니엘스 듀오 스포일러 메시지 영상)",
+                "vodUrl": "https://www.kmdb.or.kr/db/kor/detail/movie/F/56635/own/videoData"
+              },
+              {
+                "vodClass": "예고편(메인예고편)",
+                "vodUrl": "https://www.kmdb.or.kr/db/kor/detail/movie/F/56635/own/videoData"
+              },
+              {
+                "vodClass": "예고편(리뷰예고편)",
+                "vodUrl": "https://www.kmdb.or.kr/db/kor/detail/movie/F/56635/own/videoData"
+              },
+              {
+                "vodClass": "기타(허리 가방 액션 영상)",
+                "vodUrl": "https://www.kmdb.or.kr/db/kor/detail/movie/F/56635/own/videoData"
+              },
+              {
+                "vodClass": "메이킹(다니엘스 피쳐렛)",
+                "vodUrl": "https://www.kmdb.or.kr/db/kor/detail/movie/F/56635/own/videoData"
+              },
+              {
+                "vodClass": "예고편(론칭예고편)",
+                "vodUrl": "https://www.kmdb.or.kr/db/kor/detail/movie/F/56635/own/videoData"
+              },
+              {
+                "vodClass": "기타(사랑 고백 액션 영상)",
+                "vodUrl": "https://www.kmdb.or.kr/db/kor/detail/movie/F/56635/own/videoData"
+              },
+              {
+                "vodClass": "기타(양자경의 개봉 기념 메시지 영상)",
+                "vodUrl": "https://www.kmdb.or.kr/db/kor/detail/movie/F/56635/own/videoData"
+              },
+              {
+                "vodClass": "기타(키보드 액션 영상)",
+                "vodUrl": "https://www.kmdb.or.kr/db/kor/detail/movie/F/56635/own/videoData"
+              },
+              {
+                "vodClass": "기타(양자경 뜻밖의 영웅 영상)",
+                "vodUrl": "https://www.kmdb.or.kr/db/kor/detail/movie/F/56635/own/videoData"
+              }
+            ]
+          },
+          "openThtr": "",
+          "stat": [
+            {
+              "screenArea": "",
+              "screenCnt": "",
+              "salesAcc": "",
+              "audiAcc": "",
+              "statSouce": "",
+              "statDate": ""
+            }
+          ],
+          "screenArea": "",
+          "screenCnt": "",
+          "salesAcc": "",
+          "audiAcc": "",
+          "statSouce": "",
+          "statDate": "",
+          "themeSong": "",
+          "soundtrack": "",
+          "fLocation": "",
+          "Awards1": "",
+          "Awards2": "",
+          "regDate": "20220818",
+          "modDate": "20221111",
+          "Codes": {
+            "Code": [
+              {
+                "CodeNm": "",
+                "CodeNo": ""
+              }
+            ]
+          },
+          "CommCodes": {
+            "CommCode": [
+              {
+                "CodeNm": "",
+                "CodeNo": ""
+              }
+            ]
+          },
+          "ALIAS": "srcKmdb2"
+        }
+      ]
+    }
+  ]
+}

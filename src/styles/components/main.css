@@ -1,0 +1,35 @@
+#main {
+  display: flex;
+}
+
+.info {
+  position: relative;
+  width: 70em;
+  height: 56em;
+  min-width: 40em;
+  min-height: 40em;
+  margin: auto;
+  margin-top: 40px;
+}
+
+.before-link {
+  display: inline-block;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  margin-left: 24px;
+}
+
+.info-container {
+  width: 68rem;
+  height: 52rem;
+  background: #ffffff;
+  margin: 10px 24px;
+  border-radius: 10px;
+  box-shadow: 6px 6px 20px rgba(0, 0, 0, 0.1);
+}
+
+.info-tit {
+  padding: 20px;
+  font-size: 24px;
+  font-weight: 500;
+}

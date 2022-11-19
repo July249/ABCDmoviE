@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html lang="ko">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>가나다라영화사</title>
+    <!-- font-awesome -->
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/all.min.css"
+    />
+    <link rel="stylesheet" href="../styles/reset.css" />
+    <link rel="stylesheet" href="../styles/components/header.css" />
+    <link rel="stylesheet" href="../styles/components/footer.css" />
+    <link rel="stylesheet" href="../styles/components/main.css" />
+    <link rel="stylesheet" href="../styles/components/aside.css" />
+  </head>
+
+  <body>
+    <header id="header">
+      <h1 class="tit">
+        <img class="tit-logo" src="../img/logo.png" alt="가나다라영화사" />
+      </h1>
+      <nav class="tit-nav">
+        <ul class="tit-nav-list">
+          <li>
+            <a href="#">최신영화</a>
+          </li>
+          <li>
+            <a href="#">추천영화</a>
+          </li>
+          <li>
+            <a href="#">빠른예매</a>
+          </li>
+          <li>
+            <a href="#" target="_blank">고객센터</a>
+          </li>
+        </ul>
+      </nav>
+      <!-- 로그인 버튼 - 대엽님이 수정 -->
+      <div class="tit-btn-wrap">
+        <a href="login.html" target="_blank">로그인</a>
+      </div>
+    </header>
+
+    <main id="main">
+      <aside id="aside">
+        <button class="hide-aside-btn">
+          <i class="fas fa-angle-double-left"></i>
+        </button>
+        <div class="ticketing">
+          <h2 class="ticketing-tit">빠른 예매</h2>
+          <div class="ticketing-member">
+            <button class="ticketing-steps-btn active" type="button">
+              <i class="fas fa-angle-down"></i> 회원 예매
+            </button>
+            <ul class="ticketing-steps active">
+              <li>영화정보 선택</li>
+              <li>결제하기</li>
+              <li>결제내역 확인</li>
+            </ul>
+          </div>
+          <div class="ticketing-visitor">
+            <button class="ticketing-steps-btn" type="button">
+              <i class="fas fa-angle-right"></i> 비회원 예매
+            </button>
+            <ul class="ticketing-steps">
+              <li>개인정보활용동의</li>
+              <li>영화정보 선택</li>
+              <li>결제하기</li>
+              <li>결제내역 확인</li>
+            </ul>
+          </div>
+        </div>
+      </aside>
+
+      <section class="info">
+        <h2 class="ir">영화정보 선택</h2>
+        <a class="before-link" href="#"
+          ><i class="fas fa-arrow-circle-left"></i> 뒤로 가기</a
+        >
+        <div class="info-container">
+          <h2 class="info-tit">영화정보선택 &gt; 상영관 선택</h2>
+        </div>
+      </section>
+    </main>
+
+    <footer id="footer">
+      <div class="floor-wrap">
+        <h2>
+          <img
+            class="tit-logo"
+            src="../img/logo_black.png"
+            alt="가나다라영화사"
+          />
+        </h2>
+        <ul class="icon-list">
+          <li>
+            <a href="#"><img src="../img/twitter.png" alt="트위터" /></a>
+          </li>
+          <li>
+            <a href="#"><img src="../img/instagram.png" alt="인스타그램" /></a>
+          </li>
+          <li>
+            <a href="#"><img src="../img/facebook.png" alt="페이스북" /></a>
+          </li>
+        </ul>
+      </div>
+      <div class="floor-wrap">
+        <dl class="floor-info">
+          <dt class="ir">회사 이름</dt>
+          <dd>(주)가나다라영화사</dd>
+          <dt>대표</dt>
+          <dd>멋쟁이사자</dd>
+          <dt>사업자 번호</dt>
+          <dd>000-0000-0000</dd>
+          <dt class="ir">업종</dt>
+          <dd>영화 콘텐츠 정보</dd>
+          <dt>주소</dt>
+          <dd>서울특별시</dd>
+        </dl>
+        <p class="copy-right">© 2022 벌써열두시</p>
+      </div>
+    </footer>
+  </body>
+</html>

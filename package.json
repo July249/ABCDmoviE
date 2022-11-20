@@ -1,26 +1,26 @@
 {
+  "version": "1.0.0",
+  "name": "abcdmovie",
+  "description": "- 멋쟁이사자처럼 프론트엔드 스쿨 3기 아쉬워 벌써12시조 토이프로젝트",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Already-12-O-clock/ABCDmoviE.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "homepage": "https://github.com/Already-12-O-clock/ABCDmoviE#readme",
+  "bugs": {
+    "url": "https://github.com/Already-12-O-clock/ABCDmoviE/issues"
+  },
+  "main": "requestAPI.js",
+  "scripts": {
+    "dev": "nodemon requestAPI.js"
+  },
   "dependencies": {
     "dotenv": "^16.0.3",
     "request": "^2.88.2"
   },
-  "name": "abcdmovie",
-  "description": "- 멋쟁이사자처럼 프론트엔드 스쿨 3기 아쉬워 벌써12시조 토이프로젝트",
-  "version": "1.0.0",
-  "main": "index.js",
   "devDependencies": {
     "nodemon": "^2.0.20"
-  },
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/July249/ABCDmoviE.git"
-  },
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/July249/ABCDmoviE/issues"
-  },
-  "homepage": "https://github.com/July249/ABCDmoviE#readme"
+  }
 }

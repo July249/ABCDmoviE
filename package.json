@@ -13,6 +13,7 @@
     "url": "https://github.com/Already-12-O-clock/ABCDmoviE/issues"
   },
   "main": "requestAPI.js",
+  "type": "module",
   "scripts": {
     "dev": "nodemon requestAPI.js"
   },

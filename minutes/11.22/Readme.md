@@ -26,7 +26,8 @@
 - components => layouts로 폴더명 변경
 - src > styles > global.css 생성
 
--
+- ![image](https://user-images.githubusercontent.com/68424403/203350823-ac11d5d1-37af-4cf3-8b7e-3a67178d3a99.png)
+
 
 <br>
 <hr>

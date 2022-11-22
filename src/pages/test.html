@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>TEST API</title>
+  </head>
+  <body>
+    <body>
+      <div id="root"></div>
+      <script type="module" src="../js/main.js"></script>
+      <script type="module">
+        const $root = document.querySelector('#root');
+        console.log($root);
+    
+        let result = null;
+  
+        const getData = async () => {
+          const response = await fetch('../../db/naverDB.json');
+          if (response) {
+            const data = await response.json();
+            console.log(data.items);
+            result = data.items;
+  
+            if (result) {
+              result.map((item, idx) => {
+                const $li = document.createElement('li');
+                const $h2 = document.createElement('h2');
+                const $img = document.createElement('img');
+  
+                $h2.innerHTML = item.title;
+                $img.setAttribute('src', item.image);
+  
+                $li.appendChild($h2);
+                $li.appendChild($img);
+                $ul.appendChild($li);
+              });
+  
+              $root.appendChild($ul);
+            } else {
+              $root.innerText = `출력 결과 값이 ${result} 입니다.`;
+            }
+          } else {
+            throw new Error('데이터를 받아오지 못했습니다.');
+          }
+        };
+  
+        getData();
+  
+        const $ul = document.createElement('ul');
+      </script>
+    </body>
+</html>

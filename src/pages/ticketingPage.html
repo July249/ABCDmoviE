@@ -13,6 +13,8 @@
     <link rel="stylesheet" href="../styles/reset.css" />
     <link rel="stylesheet" href="../styles/components/header.css" />
     <link rel="stylesheet" href="../styles/components/footer.css" />
+    <link rel="stylesheet" href="../styles/components/main.css" />
+    <link rel="stylesheet" href="../styles/ticketingPage.css">
   </head>
 
   <body>
@@ -41,7 +43,59 @@
         <a class="login-btn" href="login.html" target="_blank">로그인</a>
       </div>
     </header>
-    <main></main>
+
+    <main id="main">
+      <section class="ticketing">
+        <h2 class="ticketing-tit ir">빠른 예매</h2>
+        <ul class="progress-list">
+          <li class="fulfilled">
+            상영관 선택
+            <div class="bar">
+              <div class="value"></div>
+            </div>
+          </li>
+          <li class="standby">
+            영화 선택
+            <div class="bar">
+              <div class="value"></div>
+            </div>
+          </li>
+          <li class="standby">
+            결제하기
+            <div class="bar">
+              <div class="value"></div>
+            </div>
+          </li>
+          <li class="standby">
+            결제내역 확인 및 취소
+            <div class="bar">
+              <div class="value"></div>
+            </div>
+          </li>
+        </ul>
+        <button class="prev-btn">
+          <i class="fas fa-arrow-circle-left"></i> 뒤로 가기
+        </button>
+        <section class="ticket-selet">
+          <h2 class="ir">상영관 영화 선택 및 결제</h2>
+          <div class="ticketing-slide-container">
+            <article class="selectTheater-container select-container">
+              <h3 class="select-tit">상영관 선택</h3>
+            </article>
+            <article class="selectMovie-container select-container">
+              <h3 class="select-tit">영화 선택</h3>
+            </article>
+            <article class="payment-container select-container">
+              <h3 class="select-tit">결제하기</h3>
+            </article>
+            <article class="paymentDetail-container select-container">
+              <h3 class="select-tit">결제내역 확인 및 취소</h3>
+            </article>
+          </div>
+        </section>
+      </section>
+    </main>
+
     <footer id="footer">
       <div class="floor-wrap">
         <h2>

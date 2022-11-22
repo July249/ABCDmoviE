@@ -1,0 +1,56 @@
+.ticketing {
+    width: 70em;
+    margin: 50px auto;
+  }
+  .prev-btn {
+    all : unset;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 24px;
+  }
+  .ticketing-slide-container {
+    display: flex;
+    width: 272rem;
+    padding: 20px;
+    box-sizing: border-box;
+    /* height: calc(100vh - 80.89px - 255.89px); */
+    background: #ffffff;
+    margin: 10px 24px;
+    border-radius: 10px;
+    box-shadow: 6px 6px 20px rgba(0, 0, 0, 0.1);
+  }
+  .select-container {
+    width: 68rem;
+    flex-grow: 1;
+  }
+  .select-tit {
+    font-size: 24px;
+    font-weight: 500;
+  }
+
+.progress-list {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 50vw;
+  margin: 0 auto;
+  position: relative;
+}
+.progress-list li {
+  width: 100%;
+  text-align: center;
+  color: #dedede;
+}
+.progress-list .fulfilled {
+  color: #000;
+  font-weight: 500;
+}
+.bar {
+  margin-top: 10px;
+  width: 100%;
+  height: 3px;
+  background-color: #dedede;
+}
+.progress-list .fulfilled .bar {
+  background-color: #711bff;
+}

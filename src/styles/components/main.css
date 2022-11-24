@@ -1,75 +1,70 @@
-#main {
-    margin: 20px 20px;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-  }
-  .main-tit-wrap {
-    padding: 15px 15px;
-  }
-  
-  .main-tit-txt {
-    font-size: 18px;
-    font-weight: 700;
-  }
-  .main-tit-txt::after {
-    content: '';
-    display: block;
-    border-bottom: 2px solid #000;
-    margin-top: 10px;
-  } 
-  
-  .newItems {
-    border: 2px solid #bdbdbd;
-    width: 1000px;
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: center;
-    padding: 26px 0;
-    gap: 23px;
-    border-radius: 10px;
-  }
-  
-  .newItems li{
-    border: 2px solid #bdbdbd;
-    border-radius: 10px;
-    overflow: hidden;
-    box-shadow: 0 0 5px rgba(0, 0, 0, 0.25);
-  }
-  .newItem-wrapp {
-    display: flex;
-    flex-direction: column;
-    padding: 20px;
-    gap: 10px;
-  }
-  
-  .newItem-img {
-    width: 180px;
-    height: 250px;
-    border-radius: 10px;
-    box-shadow: 0 0 5px rgba(0, 0, 0, 0.5);
-  }
-  .newItem-name {
-    font-size: 26px;
-    font-weight: 700;
-  }
-  .des-wrapp {
-    display: flex;
-    flex-direction: column;
-    gap: 5px;
-  }
-  .type-wrapp {
-    display: flex;
-    flex-direction: row;
-    gap: 5px;
-    font-size: 13px;
-  }
-  .type-wrapp dt {
-    color: #bdbdbd;
-  }
-  .fast-ticket {
-    padding: 9px 27px 12px 27px;
-    text-align: center;
-    border-top: 2px solid #bdbdbd;
-  }
+.main-wrap {
+  margin: 20px auto;
+  max-width: 1000px;
+}
+
+.main-tit-txt {
+  margin: 15px 0 25px;
+  font-size: 24px;
+  font-weight: 700;
+  text-align: center;
+  text-decoration: underline 2px solid black;
+  text-underline-offset: 10px;
+}
+.newItems {
+  border: 2px solid #bdbdbd;
+  width: 1000px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  padding: 26px 0;
+  gap: 23px;
+  border-radius: 10px;
+}
+
+.newItems li{
+  border: 2px solid #bdbdbd;
+  border-radius: 10px;
+  overflow: hidden;
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.25);
+}
+.newItem-wrap {
+  display: flex;
+  flex-direction: column;
+  padding: 20px;
+  gap: 10px;
+}
+.img-wrap {
+  width: 180px;
+  height: 250px;
+  border-radius: 10px;
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.5);
+}
+.newItem-img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+.newItem-name {
+  font-size: 26px;
+  font-weight: 700;
+}
+.des-wrap {
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+}
+.genre-wrap, .open-wrap, .actor-wrap {
+  display: flex;
+  flex-direction: row;
+  gap: 5px;
+  font-size: 13px;
+}
+.genre-wrap dt, .open-wrap dt, .actor-wrap dt {
+  color: #bdbdbd;
+}
+.fast-ticket {
+  padding: 9px 27px 12px 27px;
+  text-align: center;
+  border-top: 2px solid #bdbdbd;
+}

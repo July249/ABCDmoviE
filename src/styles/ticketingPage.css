@@ -1,32 +1,44 @@
 .ticketing {
-    width: 70em;
-    margin: 50px auto;
+  width: 100%;
+  margin: 50px auto;
 }
 .prev-btn {
-    all : unset;
-    margin-top: 10px;
-    margin-bottom: 10px;
-    margin-left: 24px;
+  all: unset;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  margin-left: 24px;
 }
 .ticketing-slide-container {
-    display: flex;
-    width: 272rem;
-    /* height: calc(100vh - 80.89px - 255.89px); */
-    background: #ffffff;
-    margin: 10px 24px;
-    border-radius: 10px;
+  display: flex;
+  width: 200vw;
+  /* height: calc(100vh - 80.89px - 255.89px); */
+  background: #ffffff;
+  margin: 10px 6px;
+  border-radius: 10px;
 }
 .select-container {
-    position: relative;
-    width: 68rem;
-    flex-grow: 1;
-    padding: 30px;
-    box-shadow: 6px 6px 20px rgba(0, 0, 0, 0.1);
-    box-sizing: border-box;
+  position: relative;
+  width: 50vw;
+  /* transform: translateX(0); */
+  transform: translateX(calc(-50.4vw * 1));
+  /* transform: translateX(calc(-50.2vw * 2)); */
+  /* transform: translateX(calc(-50.1vw * 3)); */
+  flex-grow: 1;
+  padding: 30px;
+  margin: 10px 10px;
+  box-shadow: 6px 6px 20px rgba(0, 0, 0, 0.1);
+  box-sizing: border-box;
 }
 .select-tit {
-    font-size: 24px;
-    font-weight: 500;
+  font-size: 24px;
+  font-weight: 500;
+}
+.ticket-selet {
+  display: flex;
+  justify-content: space-between;
+  width: 50vw;
+  margin: 0 auto;
+  overflow: hidden;
 }
 
 .progress-list {
@@ -158,9 +170,10 @@
   display: flex;
   justify-content: space-between;
 }
-.select-ticket, .buy-ticket {
+.select-ticket,
+.buy-ticket {
   margin-top: 60px;
-  width: 500px;
+  width: 30rem;
 }
 .select-ticket {
   display: grid;

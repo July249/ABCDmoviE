@@ -1,0 +1,118 @@
+body {
+    background-color: rgb(20, 20, 20);
+}
+
+.total-container {
+    width: 80vw;
+    margin: 0 auto;
+}
+
+.desc-section {
+    display: flex;
+    padding: 0 90px;
+    gap: 50px;
+    color: #fff;
+    background-color: rgb(20, 20, 20);
+}
+
+.desc-wrapp1 {
+    flex-basis: 70%;
+}
+
+.moive-title {
+    font-size: 42px;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+
+.desc-wrapp3 {
+    flex-grow: 1;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start
+}
+.genre-wrap, .rating-wrap, .casts-wrap {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 5px;
+    margin-bottom: 20px;
+}
+.tit-txt {
+    font-size: 26px;
+    margin-bottom: 30px;
+}
+.genre-type {
+    font-size: 13px;
+    color: #bdbdbd;
+    margin-bottom: 15px;
+}
+.genre-type span {
+    background-color: rgb(81, 81, 81);
+    margin: 0 3px;
+    padding: 3px 3px;
+    border-radius: 3px;
+}
+.ratings {
+    color: black;
+    width: 240px;
+    height: 48px;
+    background-image: url('../../img/star.png');
+    background-size: 240px 96px;
+    overflow: hidden;
+    margin-bottom: 30px;
+}
+.ratings::before {
+    content: ' ';
+    display: block;
+    width: 0px;
+    height: inherit;
+    background-image: inherit;;
+    background-position: left bottom;
+    background-size: inherit;;
+}
+.rating_1::before {width: 20%;}
+.rating_2::before {width: 40%;}
+.rating_3::before {width: 60%;}
+.rating_4::before {width: 80%;}
+.rating_5::before {width: 100%;}
+
+.director, .actor {
+    display: flex;
+    gap: 10px;
+    line-height: 1.2em;
+    margin-bottom: 5px;
+}
+.director dd, .actor dd {
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.mainPoster-img {
+    width: 100%;
+}
+
+.overLay {
+    position: relative;
+}
+
+.overLay::before {
+    content: '';
+    background: linear-gradient(0deg, rgb(20, 20, 20), transparent);
+    width: 100%;
+    height: 50%;
+    top: 50%;
+    left: 0;
+    position: absolute;
+}
+
+.moive-title {
+    color: #fff;
+}
+
+.movie-summary {
+    font-size: 18px;
+    line-height: 1.5em;
+    color: #bdbdbd;
+    background: inherit;
+}

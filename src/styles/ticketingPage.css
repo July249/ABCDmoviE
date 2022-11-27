@@ -1,5 +1,5 @@
 .ticketing {
-  width: 100%;
+  width: 70em;
   margin: 50px auto;
 }
 .prev-btn {
@@ -10,38 +10,23 @@
 }
 .ticketing-slide-container {
   display: flex;
-  width: 200vw;
-  min-width: 4000px;
+  width: 272rem;
   /* height: calc(100vh - 80.89px - 255.89px); */
   background: #ffffff;
-  margin: 10px 6px;
+  margin: 10px 24px;
   border-radius: 10px;
 }
 .select-container {
   position: relative;
-  width: 50vw;
-  min-width: 1000px;
-  /* transform: translateX(0); */
-  /* transform: translateX(calc(-50.4vw * 1)); */
-  /* transform: translateX(calc(-50.2vw * 2)); */
-  transform: translateX(calc(-50.1vw * 3));
+  width: 68rem;
   flex-grow: 1;
   padding: 30px;
-  margin: 10px 10px;
   box-shadow: 6px 6px 20px rgba(0, 0, 0, 0.1);
   box-sizing: border-box;
 }
 .select-tit {
   font-size: 24px;
   font-weight: 500;
-}
-.ticket-selet {
-  display: flex;
-  justify-content: space-between;
-  width: 50vw;
-  min-height: 1000px;
-  margin: 0 auto;
-  overflow: hidden;
 }
 
 .progress-list {
@@ -176,7 +161,7 @@
 .select-ticket,
 .buy-ticket {
   margin-top: 60px;
-  width: 30rem;
+  width: 500px;
 }
 .select-ticket {
   display: grid;
@@ -250,31 +235,4 @@
   border-style: none;
   border-radius: 10px;
   color: #fff;
-}
-
-@media screen and (max-width: 80em) {
-  .ticketing {
-    width: 70em;
-  }
-  .ticketing-slide-container {
-    width: 68rem;
-    margin: 10px 24px;
-    display: flex;
-    flex-direction: column;
-    width: 68rem;
-    height: 80vw;
-    overflow-y: scroll;
-    overflow: hidden;
-  }
-  .select-container {
-    width: 68rem;
-  }
-  .ticket-selet {
-    /*     display: flex;
-    flex-direction: column;
-    width: 68rem;
-    height: 80vw;
-    overflow-y: scroll;
-    overflow: hidden; */
-  }
 }

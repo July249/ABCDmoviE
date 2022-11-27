@@ -11,6 +11,7 @@
 .ticketing-slide-container {
   display: flex;
   width: 200vw;
+  min-width: 4000px;
   /* height: calc(100vh - 80.89px - 255.89px); */
   background: #ffffff;
   margin: 10px 6px;
@@ -19,10 +20,11 @@
 .select-container {
   position: relative;
   width: 50vw;
+  min-width: 1000px;
   /* transform: translateX(0); */
-  transform: translateX(calc(-50.4vw * 1));
+  /* transform: translateX(calc(-50.4vw * 1)); */
   /* transform: translateX(calc(-50.2vw * 2)); */
-  /* transform: translateX(calc(-50.1vw * 3)); */
+  transform: translateX(calc(-50.1vw * 3));
   flex-grow: 1;
   padding: 30px;
   margin: 10px 10px;
@@ -37,6 +39,7 @@
   display: flex;
   justify-content: space-between;
   width: 50vw;
+  min-height: 1000px;
   margin: 0 auto;
   overflow: hidden;
 }
@@ -247,4 +250,31 @@
   border-style: none;
   border-radius: 10px;
   color: #fff;
+}
+
+@media screen and (max-width: 80em) {
+  .ticketing {
+    width: 70em;
+  }
+  .ticketing-slide-container {
+    width: 68rem;
+    margin: 10px 24px;
+    display: flex;
+    flex-direction: column;
+    width: 68rem;
+    height: 80vw;
+    overflow-y: scroll;
+    overflow: hidden;
+  }
+  .select-container {
+    width: 68rem;
+  }
+  .ticket-selet {
+    /*     display: flex;
+    flex-direction: column;
+    width: 68rem;
+    height: 80vw;
+    overflow-y: scroll;
+    overflow: hidden; */
+  }
 }

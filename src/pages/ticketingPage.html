@@ -15,6 +15,7 @@
     <link rel="stylesheet" href="../styles/components/footer.css" />
     <link rel="stylesheet" href="../styles/components/main.css" />
     <link rel="stylesheet" href="../styles/ticketingPage.css">
+    <script src="../js/ticketingPageOverall.js" defer></script>
   </head>
 
   <body>
@@ -48,25 +49,25 @@
       <section class="ticketing">
         <h2 class="ticketing-tit ir">빠른 예매</h2>
         <ul class="progress-list">
-          <li class="fulfilled">
+          <li class="fulfilled" data-tag="select_theater">
             상영관 선택
             <div class="bar">
               <div class="value"></div>
             </div>
           </li>
-          <li class="standby">
+          <li class="standby" data-tag="select_movie">
             영화 선택
             <div class="bar">
               <div class="value"></div>
             </div>
           </li>
-          <li class="standby">
+          <li class="standby" data-tag="select_payment">
             결제하기
             <div class="bar">
               <div class="value"></div>
             </div>
           </li>
-          <li class="standby">
+          <li class="standby" data-tag="select_bill">
             결제내역 확인 및 취소
             <div class="bar">
               <div class="value"></div>

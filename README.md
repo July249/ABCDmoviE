@@ -15,6 +15,7 @@
 - HTML
 - CSS
 - JavaScript
+- Webpack
 
 ### 🧑‍💻 프로젝트에 사용된 API 정보
 

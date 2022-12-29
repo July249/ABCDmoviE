@@ -1,5 +1,7 @@
 const getMovieImage = async () => {
-  const res = await fetch("https://raw.githubusercontent.com/Already-12-O-clock/ABCDmoviE/main/db/box_office_db.json");
+  const res = await fetch(
+    "https://raw.githubusercontent.com/Already-12-O-clock/ABCDmoviE/main/db/box_office_db.json"
+  );
   const data = await res.json();
 
   const boxOfficeMovieInfoArr = [];
@@ -49,7 +51,10 @@ const btns = carousel.querySelectorAll(".arr-btn");
 btns.forEach((btn) => {
   btn.addEventListener("click", (e) => {
     if (btn.classList.contains("left-btn")) {
-      imageContainer.insertBefore(imageContainer.lastElementChild, imageContainer.firstElementChild);
+      imageContainer.insertBefore(
+        imageContainer.lastElementChild,
+        imageContainer.firstElementChild
+      );
     } else if (btn.classList.contains("right-btn")) {
       imageContainer.appendChild(imageContainer.firstElementChild);
     }

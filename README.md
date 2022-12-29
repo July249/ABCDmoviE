@@ -35,9 +35,10 @@
   |   feat   | 새로운 기능 추가                                                                           |
   |   fix    | 버그 수정                                                                                  |
   |   docs   | 주석 추가 및 삭제, README 작성                                                             |
-  |  style   | 기능과 무관한 스타일 변경 (Format 수정, 들여쓰기 추가, 세미콜론 추가, 줄바꿈, CSS 변경 등) |
+  |  design  | HTML, CSS 및 디자인적 기능을 구현하기 위한 작업 사항                                       |
   | refactor | 코드 리팩토링                                                                              |
   | setting  | 개발환경 설정 및 수정, 패키지 설치, 빌드 수행 등                                           |
+  |  chore   | 기능과 무관한 스타일 변경 (Format 수정, 들여쓰기 추가, 세미콜론 추가, 줄바꿈, CSS 변경 등) |
 
   ```
   $ git commit -m "<type>: <summary>

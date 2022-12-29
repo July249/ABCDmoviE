@@ -1,6 +1,6 @@
 ---
-name: 기능 구현 전 이슈 생성
-about:
+name: "이슈 템플릿"
+about: "기능 구현 전 이슈 생성"
 title: "[issue]"
 labels:
 assignees:

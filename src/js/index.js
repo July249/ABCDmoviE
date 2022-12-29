@@ -27,11 +27,7 @@ const imageLis = carousel.querySelectorAll(".item-list > li");
 
 window.addEventListener("DOMContentLoaded", async () => {
   const boxOfficeMovieInfoArr = await getMovieImage();
-  // console.log(boxOfficeMovieInfoArr);
-
-  // const boxOfficeMovieImgArr = await getMovieImage();
   const carouselImgDataArr = boxOfficeMovieInfoArr.slice(0, 5);
-  // console.log(carouselImgDataArr);
 
   carouselImgDataArr.forEach((imgInfoObj, idx) => {
     imageLis[idx].innerHTML = `

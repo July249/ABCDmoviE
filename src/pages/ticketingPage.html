@@ -1,352 +1,344 @@
 <!DOCTYPE html>
 <html lang="ko">
-  <head>
-    <meta charset="UTF-8" />
-    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>가나다라영화사</title>
-    <!-- font-awesome -->
-    <link
-      rel="stylesheet"
-      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/all.min.css"
-    />
-    <link rel="stylesheet" href="../styles/reset.css" />
-    <link rel="stylesheet" href="../styles/components/header.css" />
-    <link rel="stylesheet" href="../styles/components/footer.css" />
-    <link rel="stylesheet" href="../styles/components/main.css" />
-    <link rel="stylesheet" href="../styles/ticketingPage.css">
-    <script src="../js/ticketingPageOverall.js" defer></script>
-  </head>
 
-  <body>
-    <header id="header">
-      <h1 class="tit">
-        <img class="tit-logo" src="../img/logo.png" alt="가나다라영화사" />
-      </h1>
-      <nav class="tit-nav">
-        <ul class="tit-nav-list">
-          <li>
-            <a href="#">최신영화</a>
-          </li>
-          <li>
-            <a href="#">추천영화</a>
-          </li>
-          <li>
-            <a href="#">빠른예매</a>
-          </li>
-          <li>
-            <a href="#" target="_blank">고객센터</a>
-          </li>
-        </ul>
-      </nav>
-      <!-- 로그인 버튼 - 대엽님이 수정 -->
-      <div class="tit-btn-wrap">
-        <a class="login-btn" href="login.html" target="_blank">로그인</a>
-      </div>
-    </header>
+<head>
+  <meta charset="UTF-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>가나다라영화사</title>
+  <!-- font-awesome -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/all.min.css" />
+  <link rel="stylesheet" href="../styles/reset.css" />
+  <link rel="stylesheet" href="../styles/components/header.css" />
+  <link rel="stylesheet" href="../styles/components/footer.css" />
+  <link rel="stylesheet" href="../styles/components/main.css" />
+  <link rel="stylesheet" href="../styles/ticketingPage.css">
+  <script src="../js/ticketingPageOverall.js" defer></script>
+  <script src="../js/theaterSelect.js" defer></script>
+</head>
 
-    <main id="main">
-      <section class="ticketing">
-        <h2 class="ticketing-tit ir">빠른 예매</h2>
-        <ul class="progress-list">
-          <li class="fulfilled" data-tag="select_theater">
-            상영관 선택
-            <div class="bar">
-              <div class="value"></div>
-            </div>
-          </li>
-          <li class="standby" data-tag="select_movie">
-            영화 선택
-            <div class="bar">
-              <div class="value"></div>
-            </div>
-          </li>
-          <li class="standby" data-tag="select_payment">
-            결제하기
-            <div class="bar">
-              <div class="value"></div>
-            </div>
-          </li>
-          <li class="standby" data-tag="select_bill">
-            결제내역 확인 및 취소
-            <div class="bar">
-              <div class="value"></div>
-            </div>
-          </li>
-        </ul>
-        <section class="ticket-selet">
-          <h2 class="ir">상영관 영화 선택 및 결제</h2>
-          <div class="ticketing-slide-container">
-            <article class="selectTheater-container select-container">
-              <h3 class="select-tit">상영관 선택</h3>
-              <div class="inner">
-                <ul class="select-options">
-                  <!-- 지역 선택 -->
-                  <li>
-                    <div class="">
-                      <button type="button" class="btn-select region">
-                        지역 선택
-                        <img
-                          src="../img/icon-Triangle-down.png"
-                          alt=""
-                        />
-                      </button>
-                      <h4 class="ir">전체</h4>
-                      <ul class="select-region-wrapper">
-                        <li>
-                          <button type="button" class="region">
-                            서울<em>(41)</em>
-                          </button>
-                        </li>
-                        <li>
-                          <button type="button" class="region">
-                            인천<em>(28)</em>
-                          </button>
-                        </li>
-                        <li>
-                          <button type="button" class="region">
-                            경기<em>(31)</em>
-                          </button>
-                        </li>
-                        <li>
-                          <button type="button" class="region">
-                            강원<em>(26)</em>
-                          </button>
-                        </li>
-                        <li>
-                          <button type="button" class="region">
-                            대전/충청/세종<em>(36)</em>
-                          </button>
-                        </li>
-                        <li>
-                          <button type="button" class="region">
-                            부산/대구/울산/경상<em>(42)</em>
-                          </button>
-                        </li>
-                        <li>
-                          <button type="button" class="region">
-                            광주/전라/제주<em>(38)</em>
-                          </button>
-                        </li>
-                      </ul>
-                    </div>
-                  </li>
-                  <!-- 영화관 선택 - CGV, 롯데시네마, MEGABOX 선택 -->
-                  <li>
-                    <div class="">
-                      <button type="button" class="btn-select company">
-                        영화관 선택
-                        <img
-                          src="../img/icon-Triangle-down.png"
-                          alt=""
-                        />
-                      </button>
-                      <h4 class="ir">전체</h4>
-                      <ul class="select-company-wrapper">
-                        <li>
-                          <button type="button" class="company">CGV</button>
-                        </li>
-                        <li>
-                          <button type="button" class="company">MEGABOX</button>
-                        </li>
-                        <li>
-                          <button type="button" class="company">
-                            롯데시네마
-                          </button>
-                        </li>
-                      </ul>
-                    </div>
-                  </li>
-                  <!-- 상영관 선택 -->
-                  <li>
-                    <div class="">
-                      <button type="button" class="btn-select theater">
-                        상영관 선택
-                        <img
-                          src="../img/icon-Triangle-down.png"
-                          alt=""
-                        />
-                      </button>
-                      <h4 class="ir">전체</h4>
-                      <ul class="select-theater-wrapper">
-                        <li>
-                          <button type="button" class="theater active">
-                            강남
-                          </button>
-                        </li>
-                        <li>
-                          <button type="button" class="theater">
-                            강남대로(씨티)
-                          </button>
-                        </li>
-                        <li>
-                          <button type="button" class="theater">강동</button>
-                        </li>
-                        <li>
-                          <button type="button" class="theater">군자</button>
-                        </li>
-                        <li>
-                          <button type="button" class="theater">동대문</button>
-                        </li>
-                        <li>
-                          <button type="button" class="theater">마곡</button>
-                        </li>
-                        <li>
-                          <button type="button" class="theater">목동</button>
-                        </li>
-                        <li>
-                          <button type="button" class="theater">상봉</button>
-                        </li>
-                        <li>
-                          <button type="button" class="theater">
-                            상암월드컵경기장
-                          </button>
-                        </li>
-                        <li>
-                          <button type="button" class="theater">성수</button>
-                        </li>
-                        <li>
-                          <button type="button" class="theater">센트럴</button>
-                        </li>
-                        <li>
-                          <button type="button" class="theater">
-                            송파파크하비오
-                          </button>
-                        </li>
-                        <li>
-                          <button type="button" class="theater">신촌</button>
-                        </li>
-                        <li>
-                          <button type="button" class="theater">이수</button>
-                        </li>
-                        <li>
-                          <button type="button" class="theater">창동</button>
-                        </li>
-                        <li>
-                          <button type="button" class="theater">코엑스</button>
-                        </li>
-                        <li>
-                          <button type="button" class="theater">홍대</button>
-                        </li>
-                        <li>
-                          <button type="button" class="theater">화곡</button>
-                        </li>
-                        <li>
-                          <button type="button" class="theater">ARTNINE</button>
-                        </li>
-                      </ul>
-                    </div>
-                  </li>
-                </ul>
-              </div>
-            </article>
-            <article class="selectMovie-container select-container">
-              <div class="tit-wrap">
-                <h3 class="select-tit">영화 선택</h3>
-                <button class="prev-btn">
-                <i class="fas fa-arrow-circle-left"></i> 뒤로 가기
-              </button>
-              </div>
-              <ul class="select-ticket">
-                <!-- js -->
+<body>
+  <header id="header">
+    <h1 class="tit">
+      <img class="tit-logo" src="../img/logo.png" alt="가나다라영화사" />
+    </h1>
+    <nav class="tit-nav">
+      <ul class="tit-nav-list">
+        <li>
+          <a href="./mainPage.html">최신영화</a>
+        </li>
+        <li>
+          <a href="#">추천영화</a>
+        </li>
+        <li>
+          <a href="./ticketingPage.html">빠른예매</a>
+        </li>
+        <li>
+          <a href="#" target="_blank">고객센터</a>
+        </li>
+      </ul>
+    </nav>
+    <div class="tit-btn-wrap">
+      <a class="login-btn" href="./loginPage.html" target="_blank">로그인</a>
+    </div>
+  </header>
+
+  <main id="main">
+    <section class="ticketing">
+      <h2 class="ticketing-tit ir">빠른 예매</h2>
+      <ul class="progress-list">
+        <li class="fulfilled" data-tag="select_theater">
+          상영관 선택
+          <div class="bar">
+            <div class="value"></div>
+          </div>
+        </li>
+        <li class="standby" data-tag="select_movie">
+          영화 선택
+          <div class="bar">
+            <div class="value"></div>
+          </div>
+        </li>
+        <li class="standby" data-tag="select_payment">
+          결제하기
+          <div class="bar">
+            <div class="value"></div>
+          </div>
+        </li>
+        <li class="standby" data-tag="select_bill">
+          결제내역 확인 및 취소
+          <div class="bar">
+            <div class="value"></div>
+          </div>
+        </li>
+      </ul>
+      <section class="ticket-selet">
+        <h2 class="ir">상영관 영화 선택 및 결제</h2>
+        <div class="ticketing-slide-container">
+          <article class="selectTheater-container select-container">
+            <h3 class="select-tit">상영관 선택</h3>
+            <div class="inner">
+              <ul class="select-options">
+                <!-- 지역 선택 -->
                 <li>
-                  <img src="" alt="포스터이미지">
+                  <div class="">
+                    <button type="button" class="btn-select region">
+                      지역 선택
+                      <img
+                        src="https://github.com/Already-12-O-clock/ABCDmoviE/blob/main/src/img/icon-Triangle-down.png?raw=true"
+                        alt="" />
+                    </button>
+                    <h4 class="ir">전체</h4>
+                    <ul class="select-region-wrapper">
+                      <li>
+                        <button type="button" class="region">
+                          서울<em>(41)</em>
+                        </button>
+                      </li>
+                      <li>
+                        <button type="button" class="region">
+                          인천<em>(28)</em>
+                        </button>
+                      </li>
+                      <li>
+                        <button type="button" class="region">
+                          경기<em>(31)</em>
+                        </button>
+                      </li>
+                      <li>
+                        <button type="button" class="region">
+                          강원<em>(26)</em>
+                        </button>
+                      </li>
+                      <li>
+                        <button type="button" class="region">
+                          대전/충청/세종<em>(36)</em>
+                        </button>
+                      </li>
+                      <li>
+                        <button type="button" class="region">
+                          부산/대구/울산/경상<em>(42)</em>
+                        </button>
+                      </li>
+                      <li>
+                        <button type="button" class="region">
+                          광주/전라/제주<em>(38)</em>
+                        </button>
+                      </li>
+                    </ul>
+                  </div>
                 </li>
+                <!-- 영화관 선택 - CGV, 롯데시네마, MEGABOX 선택 -->
                 <li>
-                  <img src="" alt="포스터이미지">
+                  <div class="">
+                    <button type="button" class="btn-select company">
+                      영화관 선택
+                      <img
+                        src="https://github.com/Already-12-O-clock/ABCDmoviE/blob/main/src/img/icon-Triangle-down.png?raw=true"
+                        alt="" />
+                    </button>
+                    <h4 class="ir">전체</h4>
+                    <ul class="select-company-wrapper">
+                      <li>
+                        <button type="button" class="company">CGV</button>
+                      </li>
+                      <li>
+                        <button type="button" class="company">MEGABOX</button>
+                      </li>
+                      <li>
+                        <button type="button" class="company">
+                          롯데시네마
+                        </button>
+                      </li>
+                    </ul>
+                  </div>
                 </li>
+                <!-- 상영관 선택 -->
                 <li>
-                  <img src="" alt="포스터이미지">
-                </li>
-                <li>
-                  <img src="" alt="포스터이미지">
-                </li>
-                <li>
-                  <img src="" alt="포스터이미지">
-                </li>
-                <li>
-                  <img src="" alt="포스터이미지">
-                </li>
-                <li>
-                  <img src="" alt="포스터이미지">
-                </li>
-                <li>
-                  <img src="" alt="포스터이미지">
-                </li>
-                <li>
-                  <img src="" alt="포스터이미지">
+                  <div class="">
+                    <button type="button" class="btn-select theater">
+                      상영관 선택
+                      <img
+                        src="https://github.com/Already-12-O-clock/ABCDmoviE/blob/main/src/img/icon-Triangle-down.png?raw=true"
+                        alt="" />
+                    </button>
+                    <h4 class="ir">전체</h4>
+                    <ul class="select-theater-wrapper">
+                      <li>
+                        <button type="button" class="theater active">
+                          강남
+                        </button>
+                      </li>
+                      <li>
+                        <button type="button" class="theater">
+                          강남대로(씨티)
+                        </button>
+                      </li>
+                      <li>
+                        <button type="button" class="theater">강동</button>
+                      </li>
+                      <li>
+                        <button type="button" class="theater">군자</button>
+                      </li>
+                      <li>
+                        <button type="button" class="theater">동대문</button>
+                      </li>
+                      <li>
+                        <button type="button" class="theater">마곡</button>
+                      </li>
+                      <li>
+                        <button type="button" class="theater">목동</button>
+                      </li>
+                      <li>
+                        <button type="button" class="theater">상봉</button>
+                      </li>
+                      <li>
+                        <button type="button" class="theater">
+                          상암월드컵경기장
+                        </button>
+                      </li>
+                      <li>
+                        <button type="button" class="theater">성수</button>
+                      </li>
+                      <li>
+                        <button type="button" class="theater">센트럴</button>
+                      </li>
+                      <li>
+                        <button type="button" class="theater">
+                          송파파크하비오
+                        </button>
+                      </li>
+                      <li>
+                        <button type="button" class="theater">신촌</button>
+                      </li>
+                      <li>
+                        <button type="button" class="theater">이수</button>
+                      </li>
+                      <li>
+                        <button type="button" class="theater">창동</button>
+                      </li>
+                      <li>
+                        <button type="button" class="theater">코엑스</button>
+                      </li>
+                      <li>
+                        <button type="button" class="theater">홍대</button>
+                      </li>
+                      <li>
+                        <button type="button" class="theater">화곡</button>
+                      </li>
+                      <li>
+                        <button type="button" class="theater">ARTNINE</button>
+                      </li>
+                    </ul>
+                  </div>
                 </li>
               </ul>
-              <div class="buy-ticket">
-                <div class="img-wrap">
-                  <p class="img-wrap-text">영화를 선택해주세요.</p>
-                </div>
-                <p class="seleted-movie-tit">선택한 영화</p>
-                <input class="selet-num" type="number" min="1" max="10" placeholder="관람 인원">
-                <button class="selet-num-btn" type="button">결제 금액 확인</button>
-                <div class="total-price">총 결제 금액 : 
-                  <span>0 원</span>
-                </div>
-                <button class="go-checkout" type="button">결제 하러 가기</button>
-              </div>
-            </article>
-            <article class="payment-container select-container">
-              <div class="tit-wrap">
-                <h3 class="select-tit">결제하기</h3>
-                <button class="prev-btn">
+            </div>
+          </article>
+          <article class="selectMovie-container select-container">
+            <div class="tit-wrap">
+              <h3 class="select-tit">영화 선택</h3>
+              <button class="prev-btn">
                 <i class="fas fa-arrow-circle-left"></i> 뒤로 가기
               </button>
+            </div>
+            <ul class="select-ticket">
+              <!-- js -->
+              <li>
+                <img src="" alt="포스터이미지">
+              </li>
+              <li>
+                <img src="" alt="포스터이미지">
+              </li>
+              <li>
+                <img src="" alt="포스터이미지">
+              </li>
+              <li>
+                <img src="" alt="포스터이미지">
+              </li>
+              <li>
+                <img src="" alt="포스터이미지">
+              </li>
+              <li>
+                <img src="" alt="포스터이미지">
+              </li>
+              <li>
+                <img src="" alt="포스터이미지">
+              </li>
+              <li>
+                <img src="" alt="포스터이미지">
+              </li>
+              <li>
+                <img src="" alt="포스터이미지">
+              </li>
+            </ul>
+            <div class="buy-ticket">
+              <div class="img-wrap">
+                <p class="img-wrap-text">영화를 선택해주세요.</p>
               </div>
-            </article>
-            <article class="paymentDetail-container select-container">
-              <div class="tit-wrap">
-                <h3 class="select-tit">결제내역 확인 및 취소</h3>
-                <button class="prev-btn">
+              <p class="seleted-movie-tit">선택한 영화</p>
+              <input class="selet-num" type="number" min="1" max="10" placeholder="관람 인원">
+              <button class="selet-num-btn" type="button">결제 금액 확인</button>
+              <div class="total-price">총 결제 금액 :
+                <span>0 원</span>
+              </div>
+              <button class="go-checkout" type="button">결제 하러 가기</button>
+            </div>
+          </article>
+          <article class="payment-container select-container">
+            <div class="tit-wrap">
+              <h3 class="select-tit">결제하기</h3>
+              <button class="prev-btn">
                 <i class="fas fa-arrow-circle-left"></i> 뒤로 가기
               </button>
-              </div>
-            </article>
-          </div>
-        </section>
+            </div>
+          </article>
+          <article class="paymentDetail-container select-container">
+            <div class="tit-wrap">
+              <h3 class="select-tit">결제내역 확인 및 취소</h3>
+              <button class="prev-btn">
+                <i class="fas fa-arrow-circle-left"></i> 뒤로 가기
+              </button>
+            </div>
+          </article>
+        </div>
       </section>
-    </main>
+    </section>
+  </main>
 
-    <footer id="footer">
-      <div class="floor-wrap">
-        <h2>
-          <img
-            class="tit-logo"
-            src="../img/logo_black.png"
-            alt="가나다라영화사"
-          />
-        </h2>
-        <ul class="icon-list">
-          <li>
-            <a href="#"><img src="../img/twitter.png" alt="트위터" /></a>
-          </li>
-          <li>
-            <a href="#"><img src="../img/instagram.png" alt="인스타그램" /></a>
-          </li>
-          <li>
-            <a href="#"><img src="../img/facebook.png" alt="페이스북" /></a>
-          </li>
-        </ul>
-      </div>
-      <div class="floor-wrap">
-        <dl class="floor-info">
-          <dt class="ir">회사 이름</dt>
-          <dd>(주)가나다라영화사</dd>
-          <dt>대표</dt>
-          <dd>멋쟁이사자</dd>
-          <dt>사업자 번호</dt>
-          <dd>000-0000-0000</dd>
-          <dt class="ir">업종</dt>
-          <dd>영화 콘텐츠 정보</dd>
-          <dt>주소</dt>
-          <dd>서울특별시</dd>
-        </dl>
-        <p class="copy-right">© 2022 벌써열두시</p>
-      </div>
-    </footer>
-  </body>
+  <footer id="footer">
+    <div class="floor-wrap">
+      <h2>
+        <img class="tit-logo" src="../img/logo_black.png" alt="가나다라영화사" />
+      </h2>
+      <ul class="icon-list">
+        <li>
+          <a href="#"><img src="../img/twitter.png" alt="트위터" /></a>
+        </li>
+        <li>
+          <a href="#"><img src="../img/instagram.png" alt="인스타그램" /></a>
+        </li>
+        <li>
+          <a href="#"><img src="../img/facebook.png" alt="페이스북" /></a>
+        </li>
+      </ul>
+    </div>
+    <div class="floor-wrap">
+      <dl class="floor-info">
+        <dt class="ir">회사 이름</dt>
+        <dd>(주)가나다라영화사</dd>
+        <dt>대표</dt>
+        <dd>멋쟁이사자</dd>
+        <dt>사업자 번호</dt>
+        <dd>000-0000-0000</dd>
+        <dt class="ir">업종</dt>
+        <dd>영화 콘텐츠 정보</dd>
+        <dt>주소</dt>
+        <dd>서울특별시</dd>
+      </dl>
+      <p class="copy-right">© 2022 벌써열두시</p>
+    </div>
+  </footer>
+</body>
+
 </html>

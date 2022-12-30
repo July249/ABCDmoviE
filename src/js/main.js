@@ -42,7 +42,7 @@ window.addEventListener("DOMContentLoaded", async () => {
 
     $newItemLi.innerHTML = `
     <div class="newItem-wrap">
-    <img class="newItem-img" src=${resultObj.image}>
+    <img class="newItem-img" src=${resultObj.image || replaceImg}>
     <p class="newItem-name">${resultObj.title}</p>
     <div class="desc-wrap">
       <dl class="type-wrap">

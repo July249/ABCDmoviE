@@ -11,7 +11,6 @@ const getMovieData = async () => {
     resultObj["title"] = filterReg(item.title);
     resultObj["image"] = item.image;
     resultObj["date"] = item.pubDate;
-    resultObj["director"] = item.director;
     resultObj["actor"] = item.actor;
     boxOfficeMovieInfoArr.push(resultObj);
   });
@@ -26,4 +25,39 @@ function filterReg(title) {
   return filteredTit2;
 }
 
-getMovieImage();
+const $newItems = document.querySelector(".newItems");
+// const $newItemLis = document.querySelectorAll(".newItems > li");
+const replaceImg = "https://unsplash-assets.imgix.net/empty-states/photos.png";
+// const $movieTitle = $newItems.querySelector(".newItem-name");
+// const $movieImg = $newItems.querySelector(".newItem-img");
+// const $movieDate = $newItems.querySelector(".type-wrap .date");
+// const $movieActor = $newItems.querySelector(".type-wrap .actor");
+
+window.addEventListener("DOMContentLoaded", async () => {
+  const boxOfficeMovieInfoArr = await getMovieData();
+  const movieInfoArr = boxOfficeMovieInfoArr.slice(0, 8);
+
+  movieInfoArr.forEach((resultObj, idx) => {
+    const $newItemLi = document.createElement("li");
+
+    $newItemLi.innerHTML = `
+    <div class="newItem-wrap">
+    <img class="newItem-img" src=${resultObj.image}>
+    <p class="newItem-name">${resultObj.title}</p>
+    <div class="desc-wrap">
+      <dl class="type-wrap">
+        <dt class="type-b">개봉</dt>
+        <dd class="date">${resultObj.date}</dd>
+      </dl>
+      <dl class="type-wrap">
+        <dt class="type-c">출연</dt>
+        <dd class="actor">${resultObj.actor}</dd>
+      </dl>
+    </div>
+  </div>
+  <div class="fast-ticket"><a href="#빠른예매페이지">예매하기</a></div>
+    `;
+
+    $newItems.appendChild($newItemLi);
+  });
+});

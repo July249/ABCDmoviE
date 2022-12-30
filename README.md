@@ -8,6 +8,21 @@
 
 ---
 
+## 미리보기
+
+- 랜딩 페이지
+
+![image](https://user-images.githubusercontent.com/90930391/210038527-39f63f86-5229-40d7-9d28-edd0cf3f9cde.png)
+
+- 메인 페이지
+
+![image](https://user-images.githubusercontent.com/90930391/210038554-4c6fc926-cd34-4939-a67b-cb4378c8ba52.png)
+
+- 빠른 예매 페이지
+
+![image](https://user-images.githubusercontent.com/90930391/210038616-ecb9ba26-c1db-42df-9d7e-81e9f861da31.png)
+
+
 ## 프로젝트에 사용된 기술 및 정보
 
 ### 🧑‍💻 프로젝트에 사용된 기술
@@ -17,10 +32,11 @@
 - JavaScript
 - Webpack
 
-### 🧑‍💻 프로젝트에 사용된 API 정보
+### 🧑‍💻 프로젝트에 사용한 API 정보
 
 - [KMDb OpenAPI](https://www.kmdb.or.kr/info/api/apiDetail/6)
 - [Kobis OpenAPI](https://www.kobis.or.kr/kobisopenapi/homepg/apiservice/searchServiceInfo.do?serviceId=searchDailyBoxOffice)
+- [Naver OpenAPI](https://openapi.naver.com/v1/search/movie)
 
 ### 🔨 프로젝트에 사용된 컨벤션
 

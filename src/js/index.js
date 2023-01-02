@@ -12,7 +12,7 @@ window.addEventListener("load", async () => {
 
   data.items.map((item) => {
     const resultObj = {};
-    resultObj["title"] = fetchAPI.filterReg(item.title);
+    resultObj["title"] = fetchAPI.filterTitleReg(item.title);
     resultObj["image"] = item.image;
     boxOfficeMovieInfoArr.push(resultObj);
   });

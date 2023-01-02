@@ -25,7 +25,7 @@ window.addEventListener("load", async () => {
 
     $newItemLi.innerHTML = `
     <div class="newItem-wrap">
-      <div class="img-wrap">
+      <div class="poster-wrap">
         <img class="newItem-img" src=${resultObj.image || replaceImg} />
       </div>
       <p class="newItem-name">${resultObj.title}</p>

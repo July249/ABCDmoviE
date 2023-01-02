@@ -18,10 +18,11 @@
 
 ![image](https://user-images.githubusercontent.com/90930391/210038554-4c6fc926-cd34-4939-a67b-cb4378c8ba52.png)
 
-- 빠른 예매 페이지
+- 빠른 예매 페이지 > 상영관 선택
 
 ![image](https://user-images.githubusercontent.com/90930391/210038616-ecb9ba26-c1db-42df-9d7e-81e9f861da31.png)
 
+- 빠른 예매 페이지 > 영화 선택
 
 ## 프로젝트에 사용된 기술 및 정보
 

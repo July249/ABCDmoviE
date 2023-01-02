@@ -4,7 +4,7 @@ const fetchAPI = new MovieData();
 const data = await fetchAPI.getMovieData();
 
 const $newItems = document.querySelector(".newItems");
-const replaceImg = "https://unsplash-assets.imgix.net/empty-states/photos.png";
+const replaceImg = "https://t1.daumcdn.net/movie/c171adb6eaa6dff8bb70a1d07e8431e893237c08";
 
 window.addEventListener("load", async () => {
   const boxOfficeMovieInfoArr = [];

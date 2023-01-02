@@ -1,35 +1,23 @@
-const getMovieData = async () => {
-  const res = await fetch(
-    "https://raw.githubusercontent.com/Already-12-O-clock/ABCDmoviE/main/db/box_office_db.json"
-  );
-  const data = await res.json();
+import MovieData from "./getMovieData.js";
 
-  const boxOfficeMovieInfoArr = [];
-
-  data.items.map((item) => {
-    const resultObj = {};
-    resultObj["title"] = filterReg(item.title);
-    resultObj["image"] = item.image;
-    resultObj["date"] = item.pubDate;
-    resultObj["actor"] = item.actor;
-    boxOfficeMovieInfoArr.push(resultObj);
-  });
-  return boxOfficeMovieInfoArr;
-};
-
-function filterReg(title) {
-  const regEx1 = /<b>/g;
-  const regEx2 = /<\/b>/g;
-  const filteredTit1 = title.replace(regEx1, "");
-  const filteredTit2 = filteredTit1.replace(regEx2, "");
-  return filteredTit2;
-}
+const fetchAPI = new MovieData();
+const data = await fetchAPI.getMovieData();
 
 const $newItems = document.querySelector(".newItems");
 const replaceImg = "https://unsplash-assets.imgix.net/empty-states/photos.png";
 
-window.addEventListener("DOMContentLoaded", async () => {
-  const boxOfficeMovieInfoArr = await getMovieData();
+window.addEventListener("load", async () => {
+  const boxOfficeMovieInfoArr = [];
+
+  data.items.map((item) => {
+    const resultObj = {};
+    resultObj["title"] = fetchAPI.filterTitleReg(item.title);
+    resultObj["image"] = item.image;
+    resultObj["date"] = item.pubDate;
+    resultObj["actor"] = fetchAPI.filterActorReg(item.actor);
+    boxOfficeMovieInfoArr.push(resultObj);
+  });
+
   const movieInfoArr = boxOfficeMovieInfoArr.slice(0, 8);
 
   movieInfoArr.forEach((resultObj, idx) => {
